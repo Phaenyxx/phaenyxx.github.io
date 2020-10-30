@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("../fonts/roboto-mono-medium.ttf");
+}
+
+:root {
+    --font: "Roboto Mono";
+    --background: #2e3440;
+    --foreground: #d8dee9;
+    --blue: #81a1c1;
+    --red: #bf616a;
+    --grey: #4c566a;
+    --branch: 1px solid #3b4252;
+}
+
+* {
+    font-family: var(--font);
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 12px;
+}
+
+body {
+    background: var(--background);
+}
+
+a {
+    color: var(--foreground);
+    text-decoration: none;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 95vh;
+}
+
+.main {
+    height: auto;
+    display: flex;
+    width: 98vw; justify-content: center ;
+    flex-direction: row;
+    margin: auto;
+}
+
+img.cover {
+    width: 60%;
+    height: auto;
+    max-width: 440px;
+    z-index: 1000;
+    border: solid 4px var(--foreground);
+    border-radius: 4px;
+}
+.leftpanel, .rightpanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.box {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    transform: translateX();
+    background: var(--grey);
+    border: solid 3px var(--foreground);
+    
+}
+
+
+.leftpanel .box {
+    border-right: none;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    transition-duration: 0.5s;
+    transform: translateX(100%) translateX(-24px);
+}
+
+.rightpanel .box {
+    flex-direction: row-reverse;
+    border-left: none;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    transition-duration: 0.5s;
+    transform: translateX(-100%) translateX(24px);
+}
+.leftpanel .box:hover {
+    transform: translateX(0);
+}
+
+.rightpanel .box:hover {
+    transform: translateX(0);
+}
+
+img.icon {
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+}
+
+.panel {
+
+    min-width: 0;
+    color: var(--foreground);
+    padding : 0.3em;
+    height: 20px;
+}
+
+
+.center {
+    max-width: 40%;
+}
