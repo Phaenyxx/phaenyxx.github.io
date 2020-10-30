@@ -1,1 +1,1 @@
-_a basic term-like startpage with tree structure_
+_a minimalistic  startpage with sliding links
