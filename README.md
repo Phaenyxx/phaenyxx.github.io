@@ -1,1 +1,1 @@
-_a minimalistic  startpage with sliding links
+a minimalistic  startpage with sliding links
