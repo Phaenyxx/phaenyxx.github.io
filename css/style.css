@@ -29,6 +29,20 @@ body {
 a {
     color: var(--foreground);
     text-decoration: none;
+    padding-left : 4px;
+    padding-right: 4px;
+}
+
+input {
+    transition: 0.5s;
+    transform: translateY(100%);
+    color: var(--foreground);
+    background: var(--grey);
+    text-decoration: none;
+    border: solid 4px var(--foreground);
+    border-bottom: none;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
 }
 
 .center {
@@ -48,35 +62,47 @@ a {
     margin: auto;
 }
 
-img.cover {
+.centerpanel {
+    display: flex;
+    flex-direction: column;
     width: 60%;
     height: auto;
     max-width: 440px;
+    border-radius: 4px;
+    align-items: center;
+}
+
+img.cover {
     z-index: 1000;
     border: solid 4px var(--foreground);
-    border-radius: 4px;
 }
+
 .leftpanel, .rightpanel {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
 }
 
 .box {
+ 
     align-items: center;
     display: flex;
     flex-direction: row;
+    width: auto;
     margin-top: 8px;
     margin-bottom: 8px;
-    transform: translateX();
     background: var(--grey);
     border: solid 3px var(--foreground);
     
 }
 
+.panel {
+    flex-grow : 1;
+}
+
 
 .leftpanel .box {
+    margin-left: auto;
     border-right: none;
     border-top-left-radius: 2px;
     border-bottom-left-radius: 2px;
@@ -85,6 +111,7 @@ img.cover {
 }
 
 .rightpanel .box {
+    margin-right: auto;
     flex-direction: row-reverse;
     border-left: none;
     border-top-right-radius: 2px;
@@ -92,6 +119,7 @@ img.cover {
     transition-duration: 0.5s;
     transform: translateX(-100%) translateX(24px);
 }
+
 .leftpanel .box:hover {
     transform: translateX(0);
 }
