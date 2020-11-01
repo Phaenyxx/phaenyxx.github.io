@@ -39,8 +39,13 @@
                         <a href="http://pixwriter.patatoide.com/">PixWriter</a> 
                     </div>
                 </div>
-            </div>
-            <img class="cover" src="img/lighthouse.png">
+            </div>      
+            <div class="centerpanel">
+                <form method="get" action="https://www.google.com/search">
+                    <input type="text" name="q" size="31" value="" placeholder="Search..." oninput="showElem()" autofocus>
+                </form>
+                <img class="cover" src="img/lighthouse.png">
+            </div>  
             <div class="rightpanel">
                 <div class="box">
                     <img class="icon" src="img/reddit.png" alt="/!\">
@@ -85,8 +90,15 @@
                     </div>
                 </div>
             </div>
+            
+            
         </div>
     </div> 
 </div>
 </body>
+<script type="text/javascript"> 
+    function showElem() { 
+        document.querySelector('input').style.transform = "translateY(0)"; 
+    } 
+</script> 
 </html>
