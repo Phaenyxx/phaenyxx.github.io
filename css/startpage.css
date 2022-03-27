@@ -94,7 +94,7 @@ a:visited {
 	display: grid;
 	grid-template-areas:
 	"reddit mailpro scryfall roll20"
-	"youtube mailperso moxfield ."
+	"youtube mailperso moxfield nethys"
 	"imgur sheets mkm ."
 	"tumblr . . ."
 	"twitter . . .";
@@ -110,6 +110,6 @@ a:visited {
 	"youtube mailperso moxfield"
 	"imgur sheets mkm"
 	"tumblr roll20 ."
-	"twitter . .";
+	"twitter nethys .";
 	}
 }

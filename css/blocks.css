@@ -59,6 +59,11 @@
 	justify-content: space-evenly;
 }
 
+.link:hover {
+	cursor:pointer;
+	color: var(--base);
+}
+
 #reddit{
 	background-color: #FF5700;
 	grid-area: reddit;
@@ -117,4 +122,9 @@
 #roll20{
 	background-color: #fb21a2;
 	grid-area: roll20;
+}
+
+#nethys{
+	background-color: #522e2c;
+	grid-area: nethys;
 }
