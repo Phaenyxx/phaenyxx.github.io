@@ -94,7 +94,7 @@ a:visited {
 	display: grid;
 	grid-template-areas:
 	"reddit mailpro maro roll20 lichess"
-	"youtube mailperso scryfall nethys ."
+	"youtube mailperso scryfall nethys myhordes"
 	"imgur sheets mkm . ."
 	"tumblr . moxfield . ."
 	"twitter . . . .";
@@ -110,8 +110,9 @@ a:visited {
 	"youtube mailperso moxfield"
 	"imgur sheets mkm"
 	"tumblr roll20 maro"
-	"twitter nethys lichess";
+	"twitter nethys lichess"
+	"myhordes . .";
 	grid-template-columns: 0.4fr  1fr 0.7fr;
-	grid-template-rows: max-content max-content max-content max-content max-content;
+	grid-template-rows: max-content max-content max-content max-content max-content max-content;
 	}
 }

@@ -138,3 +138,8 @@
 	background-color: #cccccc;
 	grid-area: lichess;
 }
+
+#myhordes{
+	background-color: #7e4d2a;
+	grid-area: myhordes;
+}
