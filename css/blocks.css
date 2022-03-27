@@ -119,6 +119,11 @@
 	grid-area: moxfield;
 }
 
+#maro{
+	background-color: #529ecc;
+	grid-area: maro;
+}
+
 #roll20{
 	background-color: #fb21a2;
 	grid-area: roll20;

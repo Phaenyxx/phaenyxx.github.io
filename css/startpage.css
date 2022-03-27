@@ -93,13 +93,13 @@ a:visited {
 	width: 100%;
 	display: grid;
 	grid-template-areas:
-	"reddit mailpro scryfall roll20"
-	"youtube mailperso moxfield nethys"
+	"reddit mailpro maro roll20"
+	"youtube mailperso scryfall nethys"
 	"imgur sheets mkm ."
-	"tumblr . . ."
+	"tumblr . moxfield ."
 	"twitter . . .";
 	grid-gap: 16px;
-	grid-template-columns: 1fr  1fr 1fr 1fr;
+	grid-template-columns: 0.4fr  1fr 0.7fr 0.7fr;
 	grid-template-rows: max-content max-content max-content max-content max-content;
 }
 
@@ -109,7 +109,9 @@ a:visited {
 	"reddit mailpro scryfall"
 	"youtube mailperso moxfield"
 	"imgur sheets mkm"
-	"tumblr roll20 ."
+	"tumblr roll20 maro"
 	"twitter nethys .";
+	grid-template-columns: 0.4fr  1fr 0.7fr;
+	grid-template-rows: max-content max-content max-content max-content max-content;
 	}
 }

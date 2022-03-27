@@ -56,7 +56,9 @@
                 <a href="https://www.moxfield.com/" id="moxfield"><div class="link">
 					<span>Moxfield</span>
 				</div></a>
-
+                <a href="https://www.tumblr.com/blog/view/markrosewater" id="maro"><div class="link">
+					<span>MaRo blog</span>
+				</div></a>
                 <a href="https://roll20.net/welcome" id="roll20"><div class="link">
 					<span>Roll20</span>
 				</div></a>
@@ -69,9 +71,11 @@
         <img src="img/bg/ruins.jpg">
     </div>
 </body>
-<script type="text/javascript"> 
+<script type="text/javascript">
+    document.addEventListener("keypress", showElem);
     function showElem() { 
-        document.querySelector('.flip-box-inner').style.transform = "RotateX(180deg)"; 
-    } 
+        document.querySelector('.flip-box-inner').style.transform = "RotateX(180deg)";
+        document.querySelector('input').focus();
+    }
 </script> 
 </html>
