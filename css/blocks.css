@@ -133,3 +133,8 @@
 	background-color: #522e2c;
 	grid-area: nethys;
 }
+
+#lichess{
+	background-color: #cccccc;
+	grid-area: lichess;
+}
