@@ -1,1 +1,1 @@
-a minimalistic  startpage with sliding links
+My CV, and a startpage on the side
