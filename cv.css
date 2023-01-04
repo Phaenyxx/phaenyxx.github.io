@@ -1,14 +1,26 @@
-.background{
-	position: absolute;
-	z-index: 1;
-	top: 0;
-	left: 0;
-	z-index: -100;
-	width: 100vw;
+html {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	font-family: Roboto;
+	margin: 0;
 	height: 100vh;
 }
 
-.background > img {
-	min-width: 100%;
-	min-height: 100%;
+.content {
+	width: 100%;
+	height: 100%;
+	margin: none;
+	display: grid;
+	justify-content: center;
+	background-color: #DDDAC9;
+}
+.box {
+	background-color: #849A7D;
+	padding: 15px;
+	border: none;
+	margin: 5px;
+	box-shadow: 5px 5px black;
 }
