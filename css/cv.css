@@ -2,6 +2,16 @@
 @import url('./colors.css');
 
 html {
+	background-color: var(--nomad-ocean);
 	height: 100%;
 	margin: 0;
 }
+
+#job span {
+	font-size: 50pt;
+	position: absolute;
+	left: 0;
+	border:2px dashed black;
+	max-width: 40vw;
+}
+

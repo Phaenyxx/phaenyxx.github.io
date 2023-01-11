@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Aemstel';
+    src: url("../assets/fonts/Aemstel-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aemstel Line Inside';
+    src: url("../assets/fonts/Aemstel-LineInside.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aemstel Shadow';
+    src: url("../assets/fonts/Aemstel-Shadow.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aemstel Line Outside';
+    src: url("../assets/fonts/Aemstel-LineOutside.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aemstel Line Horizontal';
+    src: url("../assets/fonts/Aemstel-LineHorizontal.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.regular {
+    font-family: 'Aemstel';
+    color: var(--nomad-red);
+    z-index: 12;
+}
+
+.shadow {
+    font-family: 'Aemstel Shadow';
+    color:var(--nomad-black);
+    z-index: 11;
+}
+
+.inside {
+    font-family: 'Aemstel Line Inside';
+    color: var(--nomad-sienna);
+    z-index: 13;
+}
+
+.outside {
+    font-family: 'Aemstel Line Outside';
+    color: var(--nomad-orange);
+    z-index: 14;
+}
+
+.horizontal {
+    font-family: 'Aemstel Line Horizontal';
+    color: var(--nomad-beige);
+    z-index: 15;
+}
+
+
