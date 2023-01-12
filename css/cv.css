@@ -5,6 +5,7 @@ html {
 	background-color: var(--nomad-ocean);
 	height: 100%;
 	margin: 0;
+	overflow: hidden;
 }
 
 #content {
@@ -21,11 +22,22 @@ html {
 	width: 100%;
 	height: 100%;
 	left: 0px;
+	
 }
 #job {
-border:2px dashed black;
-width: 40vw;
-height: 200px;
-position: relative;
-text-align: center;
+	border:2px dashed black;
+	width: 60vw;
+	height: 200px;
+	position: relative;
+	text-align: center;
+	
+}
+
+@media only screen and (max-width: 600px) {
+	#job span {
+		font-size: 20pt;
+	}
+	#job {
+		width: 80vw;
+	}
 }
