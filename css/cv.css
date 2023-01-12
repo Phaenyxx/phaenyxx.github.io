@@ -33,11 +33,17 @@ html {
 	
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) and (min-width: 601px) {
 	#job span {
-		font-size: 20pt;
+		font-size: 40pt;
 	}
 	#job {
 		width: 80vw;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	#job span {
+		font-size: 26pt;
 	}
 }
