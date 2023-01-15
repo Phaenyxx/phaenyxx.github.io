@@ -6,14 +6,21 @@ html {
 	height: 100%;
 	margin: 0;
 	overflow: hidden;
+	font-family: 'Roboto Mono', monospace;
 }
 
 #content {
 	width: 100vw;
 	height: 100vh;
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+}
+
+#pic img{
+	height: 30vh;
+	box-shadow: 5px 5px 0px var(--nomad-black);
 }
 
 #job span {
@@ -25,13 +32,20 @@ html {
 	
 }
 #job {
-	border:2px dashed black;
+	/* border:2px dashed black; */
 	width: 60vw;
 	height: 200px;
 	position: relative;
 	text-align: center;
 	
 }
+
+.comp {
+	color: var(--nomad-beige);
+}
+
+
+
 
 @media only screen and (max-width: 900px) and (min-width: 601px) {
 	#job span {
