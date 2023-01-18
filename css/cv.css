@@ -7,6 +7,7 @@ html {
 	margin: 0;
 	overflow: hidden;
 	font-family: 'Roboto Mono', monospace;
+
 }
 
 #content {
@@ -42,6 +43,7 @@ html {
 
 .comp {
 	color: var(--nomad-beige);
+	text-shadow: 2px 2px 0px black;
 }
 
 
