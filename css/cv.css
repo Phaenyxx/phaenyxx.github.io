@@ -5,7 +5,7 @@ html {
 	background-color: var(--nomad-ocean);
 	height: 100%;
 	margin: 0;
-	overflow: hidden;
+	overflow-x:hidden;
 	font-family: 'Roboto Mono', monospace;
 
 }
@@ -46,8 +46,64 @@ html {
 	text-shadow: 2px 2px 0px black;
 }
 
+#formation, #experiences {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.exp-item {
+	padding: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	max-width: 25%;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 5px 5px 0px var(--nomad-black);
+	background-color: var(--nomad-blue);
+	margin: 10px;
+}
 
+.exp-item span {
+	text-align: center;
+}
 
+.exp-name {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	height: 60px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: -30px;
+	margin-left: -100px;
+	transition: 0.3s ease-in-out;
+}
+
+.exp-item:hover .exp-name {
+	opacity: 0;
+}
+
+.exp-location, .exp-title, .exp-date, .exp-desc {
+	font-size: small;
+	opacity : 0;
+	transition: 0.3s ease-in-out;
+}
+
+.exp-location {
+}
+
+.exp-desc {
+	font-size: xx-small;
+}
+
+.exp-item:hover .exp-location, .exp-item:hover .exp-title, .exp-item:hover .exp-date, .exp-item:hover .exp-desc {
+ opacity : 1;
+}
 
 @media only screen and (max-width: 900px) and (min-width: 601px) {
 	#job span {
