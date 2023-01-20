@@ -6,6 +6,7 @@ html {
 	height: 100%;
 	margin: 0;
 	overflow-x:hidden;
+	overflow-y:hidden;
 	font-family: 'Roboto Mono', monospace;
 
 }
@@ -51,9 +52,12 @@ html {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: center;
+	width: 100vw;
+	flex-grow: 1;
 }
 .exp-item {
-	padding: 5px;
+	padding: 20px;
+	height: 150px;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -62,7 +66,7 @@ html {
 	align-items: center;
 	justify-content: center;
 	box-shadow: 5px 5px 0px var(--nomad-black);
-	background-color: var(--nomad-blue);
+	background-color: var(--nomad-beige);
 	margin: 10px;
 }
 
