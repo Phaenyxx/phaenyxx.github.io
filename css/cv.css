@@ -42,6 +42,25 @@ html {
 	
 }
 
+#competences {
+	padding: 20px;
+	background-color: var(--nomad-emerald);
+	box-shadow: 5px 5px 0px var(--nomad-black);
+}
+.comp-title {
+	position: relative;
+}
+
+.comp-title span {
+	font-size: large;
+	position: relative;
+}
+
+.comp-title span.shadow {
+	position: absolute;
+	left:0;
+}
+
 .comp {
 	color: var(--nomad-beige);
 	text-shadow: 2px 2px 0px black;
@@ -58,13 +77,14 @@ html {
 .exp-item {
 	padding: 20px;
 	height: 100px;
+	min-width: 200px;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
 	max-width: 25%;
 	position: relative;
 	align-items: center;
-	justify-content: center;
+	justify-content: space-evenly;
 	box-shadow: 5px 5px 0px var(--nomad-black);
 	background-color: var(--nomad-beige);
 	margin: 10px;
@@ -83,29 +103,41 @@ html {
 	display:flex;
 	align-items: center;
 	justify-content: center;
-	margin-top: -30px;
+	margin-top: -50px;
 	margin-left: -100px;
 	transition: 0.3s ease-in-out;
 }
 
-.exp-item:hover .exp-name {
+.exp-date {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	height: 60px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 10px;
+	margin-left: -100px;
+	transition: 0.3s ease-in-out;
+}
+
+.exp-item:hover .exp-name, .exp-item:hover .exp-date {
 	opacity: 0;
 }
 
-.exp-location, .exp-title, .exp-date, .exp-desc {
+.exp-location, .exp-title, .exp-desc {
 	font-size: small;
 	opacity : 0;
 	transition: 0.3s ease-in-out;
 }
 
-.exp-location {
-}
 
 .exp-desc {
-	font-size: xx-small;
+	font-size: x-small;
 }
 
-.exp-item:hover .exp-location, .exp-item:hover .exp-title, .exp-item:hover .exp-date, .exp-item:hover .exp-desc {
+.exp-item:hover .exp-location, .exp-item:hover .exp-title, .exp-item:hover .exp-desc {
  opacity : 1;
 }
 
@@ -120,6 +152,9 @@ html {
 	#job {
 		width: 80vw;
 	}
+	.exp-item {
+		height: 200px;
+	}
 }
 
 @media only screen and (max-width: 600px) {
@@ -128,5 +163,8 @@ html {
 	}
 	#job span {
 		font-size: 26pt;
+	}
+	.exp-item {
+		height: 200px;
 	}
 }
