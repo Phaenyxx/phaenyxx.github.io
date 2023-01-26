@@ -115,7 +115,7 @@ html {
 }
 .exp-item {
 	padding: 20px;
-	height: 100px;
+	height: 120px;
 	min-width: 200px;
 	display: flex;
 	flex-wrap: wrap;
