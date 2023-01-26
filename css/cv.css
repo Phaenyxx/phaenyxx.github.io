@@ -286,6 +286,14 @@ html {
 		overflow-y:scroll;
 		overflow-x:hidden;
 	}
+	#content {
+		grid-template-areas:
+		"info .  pdf"
+		"job job comp"
+		"job job ."
+		"form form form"
+		"exp exp exp";
+	}
 	#job span {
 		font-size: 40pt;
 	}
@@ -300,6 +308,14 @@ html {
 @media only screen and (max-width: 600px) {
 	html {
 	overflow-y:scroll;
+	}
+	#content {
+		grid-template-areas:
+		"info .  pdf"
+		"job job comp"
+		"job job ."
+		"form form form"
+		"exp exp exp";
 	}
 	#job span {
 		font-size: 26pt;
