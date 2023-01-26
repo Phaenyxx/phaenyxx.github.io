@@ -287,12 +287,15 @@ html {
 		overflow-x:hidden;
 	}
 	#content {
+		justify-items: center;
+		gap: 20px;
 		grid-template-areas:
-		"info .  pdf"
-		"job job comp"
-		"job job ."
-		"form form form"
-		"exp exp exp";
+		"pdf"
+		"info"
+		"job"
+		"comp"
+		"form"
+		"exp";
 	}
 	#job span {
 		font-size: 40pt;
@@ -310,12 +313,15 @@ html {
 	overflow-y:scroll;
 	}
 	#content {
+		justify-items: center;
+		gap: 20px;
 		grid-template-areas:
-		"info .  pdf"
-		"job job comp"
-		"job job ."
-		"form form form"
-		"exp exp exp";
+		"pdf"
+		"info"
+		"job"
+		"comp"
+		"form"
+		"exp";
 	}
 	#job span {
 		font-size: 26pt;
