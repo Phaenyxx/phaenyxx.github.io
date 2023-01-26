@@ -5,6 +5,39 @@
 	box-sizing: border-box;
 }
 
+a {
+	text-decoration: none;
+	transition: 0.5s ease-in-out;
+}
+
+a:before{
+	content:" ";
+	width:10px;
+	height:10px;
+	left: 48%;
+	position:absolute;
+	transition:all 0.5s ease-in-out;
+	opacity: 0.1;
+}
+
+a:before{
+	bottom:-5px;
+	border-bottom:5px solid var(--nomad-black);
+
+}
+a:hover, a:focus{
+	border-top-right-radius:0px;
+	border-bottom-left-radius:0px;
+}
+a:hover:before, a:focus::before{
+	
+	width:100%;
+	height:100%;
+	opacity: 1;
+	left: 0;
+}
+
+
 html {
 	background-color: var(--nomad-ocean);
 	height: 100%;
@@ -18,13 +51,19 @@ html {
 #content {
 	width: 100vw;
 	height: 100vh;
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
 	align-items: center;
-	justify-content: center;
+	grid-template-areas:
+	"info . pdf pdf"
+	"info job job comp"
+	". job job ."
+	"form form form form"
+	"exp exp exp exp";
 }
 
 #info {
+	width: fit-content;
+	grid-area: info;
 	height: 200px;
 	width: 300px;
 	background-color: var(--nomad-emerald);
@@ -71,6 +110,7 @@ html {
 	
 }
 #job {
+	grid-area: job;
 	/* border:2px dashed black; */
 	width: 60vw;
 	height: 200px;
@@ -79,7 +119,21 @@ html {
 	
 }
 
+.nb.regular{
+	color: var(--nomad-white);
+}
+
+#pdf {
+	grid-area: pdf;
+	width: fit-content;
+}
+
 #competences {
+	width: fit-content;
+	grid-area: comp;
+}
+
+#competences, #pdf {
 	padding: 20px;
 	background-color: var(--nomad-emerald);
 	box-shadow: 5px 5px 0px var(--nomad-black);
@@ -129,6 +183,50 @@ html {
 	margin: 10px;
 }
 
+.exp-item:after,.exp-item:before{
+	content:" ";
+	width:10px;
+	height:10px;
+	position:absolute;
+	border :0px solid #fff;
+	transition:all 0.5s ease-in-out;
+	}
+.exp-item:after{
+	top:-1px;
+	left:-1px;
+	border-top:5px solid var(--nomad-black);
+	border-left:5px solid var(--nomad-black);
+}
+.exp-item:before{
+	bottom:-1px;
+	right:-1px;
+	border-bottom:5px solid var(--nomad-black);
+	border-right:5px solid var(--nomad-black);
+}
+.exp-item:hover{
+	border-top-right-radius:0px;
+	border-bottom-left-radius:0px;
+
+}
+.exp-item:hover:before,.exp-item:hover:after{
+		
+	width:100%;
+	height:100%;
+	border-color:var(--nomad-white);
+}
+
+#formation {
+	grid-area: form;
+}
+
+#experiences {
+	grid-area: exp;
+}
+
+#formation .exp-item{
+	background-color: var(--nomad-olive);
+}
+
 .exp-item span {
 	text-align: center;
 }
@@ -144,7 +242,7 @@ html {
 	justify-content: center;
 	margin-top: -50px;
 	margin-left: -100px;
-	transition: 0.3s ease-in-out;
+	transition: 0.5s ease-in-out;
 }
 
 .exp-date {
