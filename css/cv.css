@@ -7,6 +7,8 @@
 
 a {
 	text-decoration: none;
+	border-style: none;
+	outline: none;
 	transition: 0.5s ease-in-out;
 }
 
@@ -124,8 +126,10 @@ html {
 }
 
 #pdf {
+	display: flex;
+	justify-content: space-between;
 	grid-area: pdf;
-	width: fit-content;
+	width: 300px;
 }
 
 #competences {
