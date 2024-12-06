@@ -1,0 +1,147 @@
+.content{
+	border-image: url("../img/ui/border.png") 3 3 3 3 / 3px 3px stretch;
+	background-color: var(--base);
+	box-shadow: 5px 5px var(--dark);
+	border-radius: 2px;
+	position: relative;
+	z-index: 100;
+	width: 70%;
+	
+	max-width: 900px;
+	margin: auto;
+	padding: 16px;
+}
+
+.flip-box {
+	perspective: 1000px;
+}
+.flip-box-inner {
+	transition: transform 0.8s;
+	transform-style: preserve-3d;
+}
+
+#Front, #Back {
+	position: relative;
+
+	-webkit-backface-visibility: hidden; /* Safari */
+	backface-visibility: hidden;
+}
+#Front {
+	top: 20px;
+	transform:rotateX(0deg);
+}
+#Back {
+	top: -20px;
+	transform: rotateX(180deg);
+}
+
+.header, .footer{
+	border-image: url("../img/ui/border.png") 3 3 3 3 / 3px 3px stretch;
+	height: 40px;
+	width: 1fr;
+	background-color: var(--accent);
+	box-shadow: 3px 3px var(--dark);
+	border-radius: 3px;
+	padding: 4px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.link {
+	border-image: url("../img/ui/border.png") 3 3 3 3 / 3px 3px stretch;
+	min-height: 30px;
+	box-shadow: 3px 3px var(--dark);
+	border-radius: 3px;
+	height: min-content;
+	padding: 4px;
+
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.link:hover {
+	cursor:pointer;
+	color: var(--base);
+	transform: translate(-1px, -2px);
+	box-shadow: 5px 5px var(--dark);
+}
+
+#reddit{
+	background-color: #FF5700;
+	grid-area: reddit;
+}
+
+#youtube{
+	background-color: #FF0000;
+	grid-area: youtube;
+}
+
+#imgur{
+	background-color: #89c623;
+	grid-area: imgur;
+}
+
+#tumblr{
+	background-color: #36465d;
+	grid-area: tumblr;
+}
+
+#twitter{
+	background-color: #00acee;
+	grid-area: twitter;
+}
+
+#mailpro{
+	background-color: var(--light-blue);
+	grid-area: mailpro;
+}
+
+#mailperso{
+	background-color: var(--yellow);
+	grid-area: mailperso;
+}
+
+#sheets{
+	background-color: #0f9d58;
+	grid-area: sheets;
+}
+
+#scryfall{
+	background-color: #4f4255;
+	grid-area: scryfall;
+}
+
+#mkm{
+	background-color: #012169;
+	grid-area: mkm;
+}
+
+#moxfield{
+	background-color: #281830;
+	grid-area: moxfield;
+}
+
+#maro{
+	background-color: #529ecc;
+	grid-area: maro;
+}
+
+#roll20{
+	background-color: #fb21a2;
+	grid-area: roll20;
+}
+
+#nethys{
+	background-color: #522e2c;
+	grid-area: nethys;
+}
+
+#lichess{
+	background-color: #cccccc;
+	grid-area: lichess;
+}
+
+#myhordes{
+	background-color: #7e4d2a;
+	grid-area: myhordes;
+}
