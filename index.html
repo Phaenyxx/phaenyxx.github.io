@@ -31,7 +31,7 @@
 			</span>
 		</div>
 		<div id="competences">
-			<div class="card title-card" onclick="toggleDivs(this)">
+			<div class="card title-card active" onclick="toggleDivs(this)">
 				<div class="title">
 					<span class="transparent">Competences</span>
 					<span class="regular">Competences</span>
@@ -39,7 +39,7 @@
 				</div>
 				<i class="fa-solid fa-caret-down"></i>
 			</div>
-			<div class="card hidden">
+			<div class="card">
 				<div class="title">
 					<span class="transparent">Savoir-Faire</span>
 					<span class="regular">Savoir-Faire</span>
@@ -53,7 +53,7 @@
 				<br>
 				- Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques</div>
 			</div>
-			<div class="card hidden">
+			<div class="card">
 				<div class="title">
 					<span class="transparent">Savoir-Etre :</span>
 					<span class="regular">Savoir-Etre :</span>
@@ -79,7 +79,7 @@
 				<br>
 				- S'adapter aux changements</div>
 			</div>
-			<div class="card hidden">
+			<div class="card">
 				<div class="title">
 					<span class="transparent">Logiciels et Languages Maitrises</span>
 					<span class="regular">Logiciels et Languages Maitrises</span>
@@ -97,7 +97,7 @@
 				<br>
 				- Plateformes de développement collaboratif (git) </div>
 			</div>
-			<div class="card hidden">
+			<div class="card">
 				<div class="title">
 					<span class="transparent">Langues :</span>
 					<span class="regular">Langues :</span>
@@ -110,7 +110,7 @@
 		</div>
  
 		<div id="formation">
-			<div class="card title-card" onclick="toggleDivs(this)">
+			<div class="card title-card active" onclick="toggleDivs(this)">
 				<div class="title">
 					<span class="transparent">Formations</span> 
 					<span class="regular">Formations</span> 
@@ -118,7 +118,7 @@
 				</div>
 				<i class="fa-solid fa-caret-down"></i>
 			</div>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 				<div class="title">
 					<span class="flip-before transparent">S'engager vers l'emploi</span>
 					<span class="flip-before regular">S'engager vers l'emploi</span>
@@ -128,7 +128,7 @@
 				<span class="text flip-after"> Certification CléA
 					<div class="smalltext">Depuis Novembre 2021</div></span>
 				</span>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 				<div class="title">
 					<span class="flip-before transparent">Concepteur Designer UI UX</span>
 					<span class="flip-before regular">Concepteur Designer UI UX</span>
@@ -138,7 +138,7 @@
 				<span class="text flip-after">Titre professionel - Bac +4
 					<div class="smalltext">Décembre 2021 à Avril 2022</div></span>
 			</span>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 				<div class="title">
 					<span class="flip-before transparent">Concepteur Developpeur en Informatique</span>
 					<span class="flip-before regular">Concepteur Developpeur en Informatique</span>
@@ -149,7 +149,7 @@
 					2ème année - Bac +3
 					<div class="smalltext">Octobre 2019  À Août 2021</div></span>
 			</span>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 				<div class="title">
 					<span class="flip-before transparent">Expert en ingenierie logicielle</span>
 					<span class="flip-before regular">Expert en ingenierie logicielle</span>
@@ -159,7 +159,7 @@
 				<span class="text flip-after">Niv. 1ère Année
 					<div class="smalltext">Octobre 2017 à Avril 2019</div></span>
 			</span>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 				<div class="title">
 					<span class="flip-before transparent">Formation Premier Secours</span>
 					<span class="flip-before regular">Formation Premier Secours</span>
@@ -171,7 +171,7 @@
 			</span>
 		</div>
 		<div id="experiences">
-			<div class="card title-card" onclick="toggleDivs(this)">
+			<div class="card title-card active" onclick="toggleDivs(this)">
 				<div class="title">
 					<span class="transparent">Experiences</span>
 					<span class="regular">Experiences</span>
@@ -179,7 +179,7 @@
 				</div>
 				<i class="fa-solid fa-caret-down"></i>
 			</div>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 			<div class="title">
 				<span class="flip-before transparent">Agent de transit Fret</span>
 				<span class="flip-before regular">Agent de transit Fret</span>
@@ -191,7 +191,7 @@
 				<span class="text flip-after">
 					</span>
 			</span>
-			<span class="card hidden flipcard">
+			<span class="card flipcard">
 			<div class="title">
 				<span class="flip-before transparent">Agent d'accueil</span>
 				<span class="flip-before regular">Agent d'accueil</span>
@@ -205,16 +205,11 @@
 	</div>
 	<script>
 		function toggleDivs(Element) {
-			console.log("Lol");
 			const parent = Element.parentElement;
 			const children = parent.childNodes;
-			console.log(children);
 
 			let delay = 0; // Initial delay (in milliseconds)
 			Element.classList.toggle('active');
-			if (!Element.classList.contains('active')) {
-				children.reverse();
-			}
 			console.log(children);
 			for (let child of children) {
 				if (child !== Element) {
