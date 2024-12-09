@@ -4,11 +4,13 @@
 	<link rel="stylesheet" href="./css/cv.css">
 	<script src="https://kit.fontawesome.com/743217d315.js" crossorigin="anonymous"></script>
 	<title>CV Timothé Rifflet</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<div id="content">
 		<div  id="job">
 			<div class="title">
+				<span class="transparent">Developpeur Informatique</span>
 				<span class="regular">Developpeur Informatique</span>
 				<span class="shadow">Developpeur Informatique</span>
 				<span class="inside">Developpeur Informatique</span>
@@ -18,6 +20,7 @@
 		</div>
 		<div class="card" id="info">
 			<div class="title">
+				<span class="transparent">Timothe Rifflet</span>
 				<span class="regular">Timothe Rifflet</span>
 				<span class="shadow">Timothe Rifflet</span>
 			</div>
@@ -30,6 +33,7 @@
 		<div id="competences">
 			<div class="card title-card" onclick="toggleDivs(this)">
 				<div class="title">
+					<span class="transparent">Competences</span>
 					<span class="regular">Competences</span>
 					<span class="shadow">Competences</span>
 				</div>
@@ -37,6 +41,7 @@
 			</div>
 			<div class="card hidden">
 				<div class="title">
+					<span class="transparent">Savoir-Faire</span>
 					<span class="regular">Savoir-Faire</span>
 					<span class="shadow">Savoir-Faire</span>
 				</div>
@@ -50,6 +55,7 @@
 			</div>
 			<div class="card hidden">
 				<div class="title">
+					<span class="transparent">Savoir-Etre :</span>
 					<span class="regular">Savoir-Etre :</span>
 					<span class="shadow">Savoir-Etre :</span>
 				</div>            
@@ -75,6 +81,7 @@
 			</div>
 			<div class="card hidden">
 				<div class="title">
+					<span class="transparent">Logiciels et Languages Maitrises</span>
 					<span class="regular">Logiciels et Languages Maitrises</span>
 					<span class="shadow">Logiciels et Languages Maitrises</span>
 				</div> 
@@ -92,6 +99,7 @@
 			</div>
 			<div class="card hidden">
 				<div class="title">
+					<span class="transparent">Langues :</span>
 					<span class="regular">Langues :</span>
 					<span class="shadow">Langues :</span>
 				</div> 
@@ -104,6 +112,7 @@
 		<div id="formation">
 			<div class="card title-card" onclick="toggleDivs(this)">
 				<div class="title">
+					<span class="transparent">Formations</span> 
 					<span class="regular">Formations</span> 
 					<span class="shadow">Formations</span>
 				</div>
@@ -111,6 +120,7 @@
 			</div>
 			<span class="card hidden flipcard">
 				<div class="title">
+					<span class="flip-before transparent">S'engager vers l'emploi</span>
 					<span class="flip-before regular">S'engager vers l'emploi</span>
 					<span class="flip-before shadow">S'engager vers l'emploi</span>
 				</div>
@@ -120,6 +130,7 @@
 				</span>
 			<span class="card hidden flipcard">
 				<div class="title">
+					<span class="flip-before transparent">Concepteur Designer UI UX</span>
 					<span class="flip-before regular">Concepteur Designer UI UX</span>
 					<span class="flip-before shadow">Concepteur Designer UI UX</span>
 				</div>
@@ -129,6 +140,7 @@
 			</span>
 			<span class="card hidden flipcard">
 				<div class="title">
+					<span class="flip-before transparent">Concepteur Developpeur en Informatique</span>
 					<span class="flip-before regular">Concepteur Developpeur en Informatique</span>
 					<span class="flip-before shadow"> Concepteur Developpeur en Informatique</span>
 				</div>
@@ -139,6 +151,7 @@
 			</span>
 			<span class="card hidden flipcard">
 				<div class="title">
+					<span class="flip-before transparent">Expert en ingenierie logicielle</span>
 					<span class="flip-before regular">Expert en ingenierie logicielle</span>
 					<span class="flip-before shadow">Expert en ingenierie logicielle</span>
 				</div>
@@ -148,6 +161,7 @@
 			</span>
 			<span class="card hidden flipcard">
 				<div class="title">
+					<span class="flip-before transparent">Formation Premier Secours</span>
 					<span class="flip-before regular">Formation Premier Secours</span>
 					<span class="flip-before shadow">Formation Premier Secours</span>
 				</div>
@@ -159,6 +173,7 @@
 		<div id="experiences">
 			<div class="card title-card" onclick="toggleDivs(this)">
 				<div class="title">
+					<span class="transparent">Experiences</span>
 					<span class="regular">Experiences</span>
 					<span class="shadow">Experiences</span>
 				</div>
@@ -166,6 +181,7 @@
 			</div>
 			<span class="card hidden flipcard">
 			<div class="title">
+				<span class="flip-before transparent">Agent de transit Fret</span>
 				<span class="flip-before regular">Agent de transit Fret</span>
 				<span class="flip-before shadow">Agent de transit Fret</span>
 			</div>
@@ -177,6 +193,7 @@
 			</span>
 			<span class="card hidden flipcard">
 			<div class="title">
+				<span class="flip-before transparent">Agent d'accueil</span>
 				<span class="flip-before regular">Agent d'accueil</span>
 				<span class="flip-before shadow">Agent d'accueil</span>
 			</div>
@@ -195,13 +212,17 @@
 
 			let delay = 0; // Initial delay (in milliseconds)
 			Element.classList.toggle('active');
+			if (!Element.classList.contains('active')) {
+				children.reverse();
+			}
+			console.log(children);
 			for (let child of children) {
 				if (child !== Element) {
 					if (child.nodeType === 1) { // Ensure it's an element node
 						setTimeout(function() {
 						child.classList.toggle('hidden'); // Toggle the 'hidden' class after the delay
 						}, delay);
-						delay += 100; // Increase the delay for the next element (300ms interval)
+						delay += 50; // Increase the delay for the next element (300ms interval)
 					}
 				}
 			}

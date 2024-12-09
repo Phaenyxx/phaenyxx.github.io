@@ -40,6 +40,11 @@
     font-display: swap;
 }
 
+.transparent {
+    font-family: 'Aemstel';
+    color: transparent;
+}
+
 .regular {
     font-family: 'Aemstel';
     color: var(--nomad-beige);
