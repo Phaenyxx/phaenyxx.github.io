@@ -1,181 +1,214 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="./css/cv.css">
-    <script src="https://kit.fontawesome.com/743217d315.js" crossorigin="anonymous"></script>
-    <title>CV Timothé Rifflet</title> 
+	<link rel="stylesheet" href="./css/cv.css">
+	<script src="https://kit.fontawesome.com/743217d315.js" crossorigin="anonymous"></script>
+	<title>CV Timothé Rifflet</title> 
 </head>
 <body>
-    <div id="content">
+	<div id="content">
 		<div  id="job">
 			<div class="title">
 				<span class="regular">Developpeur Informatique</span>
 				<span class="shadow">Developpeur Informatique</span>
 				<span class="inside">Developpeur Informatique</span>
 			</div>
-            <div class="text">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail - Doté de compétences variées dans le domaine du Développement, du Graphisme & du Numérique, je souhaite mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.
+			<div class="text">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail - Doté de compétences variées dans le domaine du Développement, du Graphisme & du Numérique, je souhaite mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.
 			</div>
 		</div>
-        <div class="card" id="info">
-            <div class="title">
-                <span class="regular">Timothe Rifflet</span>
-                <span class="shadow">Timothe Rifflet</span>
-            </div>
-            <span class="adress text">Chauny - 02300
-                </span>
-            <span class="adress text">rifflettim@gmail.com<br>
-            07 84 94 34 68
-            </span>
-        </div>
+		<div class="card" id="info">
+			<div class="title">
+				<span class="regular">Timothe Rifflet</span>
+				<span class="shadow">Timothe Rifflet</span>
+			</div>
+			<span class="adress text">Chauny - 02300
+				</span>
+			<span class="adress text">rifflettim@gmail.com<br>
+			07 84 94 34 68
+			</span>
+		</div>
 		<div id="competences">
-            <div class="card title-card">
-                <div class="title">
-                    <span class="regular">Competences</span>
-                    <span class="shadow">Competences</span>
-                </div>
-            </div>
-            <div class="card">
-                <div class="title">
-                    <span class="regular">Savoir-Faire</span>
-                    <span class="shadow">Savoir-Faire</span>
-                </div>
-                <div class="text smalltext">- Développer un logiciel, un système d'informations, une application
-                <br>
-                - Conception de sites web
-                <br>
-                - Développer une application en lien avec une base de données
-                <br>
-                - Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques</div>
-            </div>
-            <div class="card">
-                <div class="title">
-                    <span class="regular">Savoir-Etre :</span>
-                    <span class="shadow">Savoir-Etre :</span>
-                </div>            
-                <div class="text smalltext">- Faire preuve d'autonomie
-                <br>
-                - Faire preuve d'autonomie
-                <br>
-                - Faire preuve de créativité, d'inventivité
-                <br>
-                - Faire preuve de curiosité
-                <br>
-                - Faire preuve de persévérance
-                <br>
-                - Faire preuve de réactivité
-                <br>
-                - Faire preuve de rigueur et de précision
-                <br>
-                - Gérer son stress
-                <br>
-                - Organiser son travail selon les priorités et les objectifs
-                <br>
-                - S'adapter aux changements</div>
-            </div>
-            <div class="card">
-                <div class="title">
-                    <span class="regular">Logiciels et Languages Maitrises</span>
-                    <span class="shadow">Logiciels et Languages Maitrises</span>
-                </div> 
-                <div class="text smalltext">- Photoshop & Illustrator
-                <br>
-                - HTML & CSS
-                <br>
-                - C/C++
-                <br>
-                - PHP
-                <br>
-                - SQL
-                <br>
-                - Plateformes de développement collaboratif (git) </div>
-            </div>
-            <div class="card">
-                <div class="title">
-                    <span class="regular">Langues :</span>
-                    <span class="shadow">Langues :</span>
-                </div> 
-                <div class="text smalltext">- Anglais niveau courant
-                <br>
-                - Espagnol niveau intermédiaire</div>
-            </div>
-        </div>
+			<div class="card title-card" onclick="toggleDivs(this)">
+				<div class="title">
+					<span class="regular">Competences</span>
+					<span class="shadow">Competences</span>
+				</div>
+				<i class="fa-solid fa-caret-down"></i>
+			</div>
+			<div class="card hidden">
+				<div class="title">
+					<span class="regular">Savoir-Faire</span>
+					<span class="shadow">Savoir-Faire</span>
+				</div>
+				<div class="text smalltext">- Développer un logiciel, un système d'informations, une application
+				<br>
+				- Conception de sites web
+				<br>
+				- Développer une application en lien avec une base de données
+				<br>
+				- Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques</div>
+			</div>
+			<div class="card hidden">
+				<div class="title">
+					<span class="regular">Savoir-Etre :</span>
+					<span class="shadow">Savoir-Etre :</span>
+				</div>            
+				<div class="text smalltext">- Faire preuve d'autonomie
+				<br>
+				- Faire preuve d'autonomie
+				<br>
+				- Faire preuve de créativité, d'inventivité
+				<br>
+				- Faire preuve de curiosité
+				<br>
+				- Faire preuve de persévérance
+				<br>
+				- Faire preuve de réactivité
+				<br>
+				- Faire preuve de rigueur et de précision
+				<br>
+				- Gérer son stress
+				<br>
+				- Organiser son travail selon les priorités et les objectifs
+				<br>
+				- S'adapter aux changements</div>
+			</div>
+			<div class="card hidden">
+				<div class="title">
+					<span class="regular">Logiciels et Languages Maitrises</span>
+					<span class="shadow">Logiciels et Languages Maitrises</span>
+				</div> 
+				<div class="text smalltext">- Photoshop & Illustrator
+				<br>
+				- HTML & CSS
+				<br>
+				- C/C++
+				<br>
+				- PHP
+				<br>
+				- SQL
+				<br>
+				- Plateformes de développement collaboratif (git) </div>
+			</div>
+			<div class="card hidden">
+				<div class="title">
+					<span class="regular">Langues :</span>
+					<span class="shadow">Langues :</span>
+				</div> 
+				<div class="text smalltext">- Anglais niveau courant
+				<br>
+				- Espagnol niveau intermédiaire</div>
+			</div>
+		</div>
  
-        <div id="formation">
-            <div class="card title-card">
-                <div class="title">
-                    <span class="regular">Formations</span>
-                    <span class="shadow">Formations</span>
-                </div>
-            </div>
-            <span class="card flipcard">
+		<div id="formation">
+			<div class="card title-card" onclick="toggleDivs(this)">
 				<div class="title">
-					<span class="flip-before regular">Concepteur Developpeur de
-                        Solutions Informatiques</span>
-					<span class="flip-before shadow">Concepteur Developpeur de
-                        Solutions Informatiques </span>
+					<span class="regular">Formations</span> 
+					<span class="shadow">Formations</span>
 				</div>
-                <span class="text flip-before">Ecole 42 - Lyon (69)</span>
-                <span class="text flip-after">Niveau
-                    2ème année - Bac +3
-                    <div class="smalltext">Octobre 2019  À Août 2021</div></span>
-            </span>
-            <span class="card flipcard">
+				<i class="fa-solid fa-caret-down"></i>
+			</div>
+			<span class="card hidden flipcard">
 				<div class="title">
-					<span class="flip-before regular">Expert en ingenierie logicielle</span>
-					<span class="flip-before shadow">Expert en ingenierie logicielle</span>
+					<span class="flip-before regular">S'engager vers l'emploi</span>
+					<span class="flip-before shadow">S'engager vers l'emploi</span>
 				</div>
-                <span class="text flip-before">Epitech - Lyon (69)</span>
-                <span class="text flip-after">Niv. 1ère Année
-                    <div class="smalltext">Octobre 2017 à Avril 2019</div></span>
-            </span>
-            <span class="card flipcard">
+				<span class="text flip-before">AIDEQ - Chauny (02)</span>
+				<span class="text flip-after"> Certification CléA
+					<div class="smalltext">Depuis Novembre 2021</div></span>
+				</span>
+			<span class="card hidden flipcard">
 				<div class="title">
 					<span class="flip-before regular">Concepteur Designer UI UX</span>
 					<span class="flip-before shadow">Concepteur Designer UI UX</span>
 				</div>
-                <span class="text flip-before">ID Formation - Saint-Quentin (02)</span>
-                <span class="text flip-after">Titre professionel - Bac +4
-                    <div class="smalltext">Décembre 2021</div></span>
-            </span>
-            <span class="card flipcard">
+				<span class="text flip-before">ID Formation - Saint-Quentin (02)</span>
+				<span class="text flip-after">Titre professionel - Bac +4
+					<div class="smalltext">Décembre 2021 à Avril 2022</div></span>
+			</span>
+			<span class="card hidden flipcard">
+				<div class="title">
+					<span class="flip-before regular">Concepteur Developpeur en Informatique</span>
+					<span class="flip-before shadow"> Concepteur Developpeur en Informatique</span>
+				</div>
+				<span class="text flip-before">Ecole 42 - Lyon (69)</span>
+				<span class="text flip-after">Niveau
+					2ème année - Bac +3
+					<div class="smalltext">Octobre 2019  À Août 2021</div></span>
+			</span>
+			<span class="card hidden flipcard">
+				<div class="title">
+					<span class="flip-before regular">Expert en ingenierie logicielle</span>
+					<span class="flip-before shadow">Expert en ingenierie logicielle</span>
+				</div>
+				<span class="text flip-before">Epitech - Lyon (69)</span>
+				<span class="text flip-after">Niv. 1ère Année
+					<div class="smalltext">Octobre 2017 à Avril 2019</div></span>
+			</span>
+			<span class="card hidden flipcard">
 				<div class="title">
 					<span class="flip-before regular">Formation Premier Secours</span>
 					<span class="flip-before shadow">Formation Premier Secours</span>
 				</div>
-                <span class="text flip-before">PSC1</span>
-                <span class="text flip-after">Croix Rouge - Chauny (02)
-                    <div class="smalltext">Décembre 2021</div></span>
-            </span>
-        </div>
-        <div id="experiences">
-            <div class="card title-card">
-                <div class="title">
-                    <span class="regular">Experiences</span>
-                    <span class="shadow">Experiences</span>
-                </div>
-            </div>
-            <span class="card flipcard">
-			<div class="title">
-                <span class="flip-before regular">Agent de transit Fret</span>
-                <span class="flip-before shadow">Agent de transit Fret</span>
+				<span class="text flip-before">PSC1</span>
+				<span class="text flip-after">Croix Rouge - Chauny (02)
+					<div class="smalltext">Décembre 2021</div></span>
+			</span>
+		</div>
+		<div id="experiences">
+			<div class="card title-card" onclick="toggleDivs(this)">
+				<div class="title">
+					<span class="regular">Experiences</span>
+					<span class="shadow">Experiences</span>
+				</div>
+				<i class="fa-solid fa-caret-down"></i>
 			</div>
-                <span class="text flip-before">Giens - 83</span>
-                <span class="text flip-after">TLV-TVM
-                    <div class="smalltext">Avril À Juin 2019<br>Réception marchandise et courrier, embarquement des marchandises.</div></span>
-                <span class="text flip-after">
-                    </span>
-            </span>
-            <span class="card flipcard">
+			<span class="card hidden flipcard">
 			<div class="title">
-                <span class="flip-before regular">Agent d'accueil</span>
-                <span class="flip-before shadow">Agent d'accueil</span>
+				<span class="flip-before regular">Agent de transit Fret</span>
+				<span class="flip-before shadow">Agent de transit Fret</span>
 			</div>
-                <span class="text flip-before">Port-Cros - 83</span>
-                <span class="text flip-after">Parc National
-                    <div class="smalltext">Septembre & Octobre 2017<br>Accueil des touristes, ventes de souvenirs, entretien des espaces publics, missions de surveillance du parc</div></span>
-            </span>
-        </div> 
-    </div>
+				<span class="text flip-before">Giens - 83</span>
+				<span class="text flip-after">TLV-TVM
+					<div class="smalltext">Avril À Juin 2019<br>Réception marchandise et courrier, embarquement des marchandises.</div></span>
+				<span class="text flip-after">
+					</span>
+			</span>
+			<span class="card hidden flipcard">
+			<div class="title">
+				<span class="flip-before regular">Agent d'accueil</span>
+				<span class="flip-before shadow">Agent d'accueil</span>
+			</div>
+				<span class="text flip-before">Port-Cros - 83</span>
+				<span class="text flip-after">Parc National
+					<div class="smalltext">Septembre & Octobre 2017<br>Accueil des touristes, ventes de souvenirs, entretien des espaces publics, missions de surveillance du parc</div></span>
+			</span>
+		</div> 
+	</div>
+	<script>
+		function toggleDivs(Element) {
+			console.log("Lol");
+			const parent = Element.parentElement;
+			const children = parent.childNodes;
+			console.log(children);
+
+			let delay = 0; // Initial delay (in milliseconds)
+			Element.classList.toggle('active');
+			for (let child of children) {
+				if (child !== Element) {
+					if (child.nodeType === 1) { // Ensure it's an element node
+						setTimeout(function() {
+						child.classList.toggle('hidden'); // Toggle the 'hidden' class after the delay
+						}, delay);
+						delay += 100; // Increase the delay for the next element (300ms interval)
+					}
+				}
+			}
+		}
+	  </script>	  
 </body>
 
 </html>
+
+
