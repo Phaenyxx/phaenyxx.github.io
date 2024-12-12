@@ -9,7 +9,10 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="cv.svg"
+   sodipodi:docname="cv_bw.svg"
+   inkscape:export-filename="cv_bw.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,13 +28,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="6.5492728"
-     inkscape:cx="980.49054"
-     inkscape:cy="612.12903"
-     inkscape:window-width="1916"
+     inkscape:cx="970.33674"
+     inkscape:cy="568.61275"
+     inkscape:window-width="956"
      inkscape:window-height="1040"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer4"
      showgrid="false"><inkscape:grid
        id="grid7"
@@ -1303,7 +1306,7 @@
      id="layer2"
      inkscape:label="Calque 2"
      style="display:inline"><rect
-       style="fill:#a99c8d;fill-opacity:1;stroke-width:0.979311"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.979311"
        id="rect2"
        width="1122.2654"
        height="791.81921"
@@ -1314,19 +1317,19 @@
      id="layer3"
      inkscape:label="Cadres"
      style="display:inline;fill:#774352;fill-opacity:1"><rect
-       style="font-variation-settings:'wght' 500;opacity:1;fill:#2f2b33;fill-opacity:1;stroke:none;stroke-opacity:0"
+       style="font-variation-settings:'wght' 500;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0"
        id="rect8"
        width="74"
        height="110"
        x="480"
        y="-220" /><rect
-       style="display:inline;opacity:1;fill:#774352;fill-opacity:1;stroke:none;stroke-width:0.922503;stroke-opacity:0;filter:url(#filter91)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.922503;stroke-opacity:0;filter:url(#filter91)"
        id="rect3"
        width="175"
        height="65"
        x="25"
        y="60" /><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.79315;stroke-opacity:0;filter:url(#filter93)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.79315;stroke-opacity:0;filter:url(#filter93)"
        id="rect3-5"
        width="859.15576"
        height="50.024055"
@@ -1335,7 +1338,7 @@
        inkscape:transform-center-x="13.929803"
        inkscape:transform-center-y="2.2954744"
        transform="matrix(1,0,0.03101228,0.999519,0,0)" /><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.90977;stroke-opacity:0;filter:url(#filter99)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.90977;stroke-opacity:0;filter:url(#filter99)"
        id="rect3-5-6"
        width="390"
        height="125.00001"
@@ -1343,7 +1346,7 @@
        y="215"
        inkscape:transform-center-x="6.3555396"
        inkscape:transform-center-y="5.7386152" /><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.73069;stroke-opacity:0;filter:url(#filter115)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.73069;stroke-opacity:0;filter:url(#filter115)"
        id="rect3-5-6-9"
        width="389.99997"
        height="102.65523"
@@ -1351,7 +1354,7 @@
        y="547.34479"
        inkscape:transform-center-x="6.3555489"
        inkscape:transform-center-y="4.7128017" /><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:2.19663;stroke-opacity:0;filter:url(#filter109)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.19663;stroke-opacity:0;filter:url(#filter109)"
        id="rect3-5-6-6"
        width="390"
        height="165.37398"
@@ -1359,7 +1362,7 @@
        y="359.62604"
        inkscape:transform-center-x="6.3555446"
        inkscape:transform-center-y="7.5921652" /><rect
-       style="display:inline;fill:#774352;fill-opacity:1;stroke:none;stroke-width:1.19242;stroke-opacity:0;filter:url(#filter95)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.19242;stroke-opacity:0;filter:url(#filter95)"
        id="rect3-5-2"
        width="475.13947"
        height="40"
@@ -1367,7 +1370,7 @@
        y="165"
        inkscape:transform-center-x="7.7430119"
        inkscape:transform-center-y="1.8363727" /><rect
-       style="display:inline;fill:#774352;fill-opacity:1;stroke:none;stroke-width:1.31176;stroke-opacity:0;filter:url(#filter97)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.31176;stroke-opacity:0;filter:url(#filter97)"
        id="rect3-5-2-7"
        width="575"
        height="40"
@@ -1375,7 +1378,7 @@
        y="165"
        inkscape:transform-center-x="9.3703548"
        inkscape:transform-center-y="1.8363671" /><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.33508;stroke-opacity:0;filter:url(#filter117)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.33508;stroke-opacity:0;filter:url(#filter117)"
        id="rect3-5-6-3"
        width="390"
        height="61.088333"
@@ -1383,7 +1386,7 @@
        y="683.91168"
        inkscape:transform-center-x="6.3555336"
        inkscape:transform-center-y="2.8045017" /><rect
-       style="display:inline;fill:#774352;fill-opacity:1;stroke:none;stroke-width:1.31176;stroke-opacity:0;filter:url(#filter113)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.31176;stroke-opacity:0;filter:url(#filter113)"
        id="rect3-5-2-7-9"
        width="575"
        height="40"
@@ -1392,14 +1395,14 @@
        inkscape:transform-center-x="9.3703548"
        inkscape:transform-center-y="1.8363671" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#e2dece;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#ffffff;stroke-opacity:0"
        x="409.99997"
        y="565"
        id="text14"><tspan
          sodipodi:role="line"
          id="tspan14"
          x="0"
-         y="0" /></text></g><g
+         y="0"></tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Textes"><text
@@ -1409,84 +1412,84 @@
        inkscape:label="langues-texte"><tspan
          x="75"
          y="719.00825"
-         id="tspan1">- Anglais niveau courant
+         id="tspan16">- Anglais niveau courant
 </tspan><tspan
          x="75"
          y="730.74165"
-         id="tspan2">- Espagnol niveau intermédiaire</tspan></text><text
+         id="tspan17">- Espagnol niveau intermédiaire</tspan></text><text
        xml:space="preserve"
        id="text13"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#e2dece;fill-opacity:1;stroke-opacity:0;filter:url(#filter66)"
        inkscape:label="logiciels-texte"><tspan
          x="75"
          y="584.00825"
-         id="tspan3">- Photoshop &amp; Illustrator
+         id="tspan18">- Photoshop &amp; Illustrator
 </tspan><tspan
          x="75"
          y="595.74165"
-         id="tspan4">- HTML &amp; CSS
+         id="tspan19">- HTML &amp; CSS
 </tspan><tspan
          x="75"
          y="607.47504"
-         id="tspan5">- C/C++
+         id="tspan20">- C/C++
 </tspan><tspan
          x="75"
          y="619.20844"
-         id="tspan6">- PHP
+         id="tspan21">- PHP
 </tspan><tspan
          x="75"
          y="630.94184"
-         id="tspan7">- SQL
+         id="tspan22">- SQL
 </tspan><tspan
          x="75"
          y="642.67524"
-         id="tspan8">- Plateformes de développement collaboratif (git)</tspan></text><text
+         id="tspan23">- Plateformes de développement collaboratif (git)</tspan></text><text
        xml:space="preserve"
        id="text9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#e2dece;stroke-opacity:0;filter:url(#filter64)"
        inkscape:label="Savoir-etre-texte"><tspan
          x="75"
          y="394.00825"
-         id="tspan9">- Faire preuve d'autonomie
+         id="tspan24">- Faire preuve d'autonomie
 </tspan><tspan
          x="75"
          y="405.74162"
-         id="tspan10">- Faire preuve d'autonomie
+         id="tspan25">- Faire preuve d'autonomie
 </tspan><tspan
          x="75"
          y="417.47498"
-         id="tspan11">- Faire preuve de créativité, d'inventivité
+         id="tspan26">- Faire preuve de créativité, d'inventivité
 </tspan><tspan
          x="75"
          y="429.20835"
-         id="tspan12">- Faire preuve de curiosité
+         id="tspan27">- Faire preuve de curiosité
 </tspan><tspan
          x="75"
          y="440.94172"
-         id="tspan13">- Faire preuve de persévérance
+         id="tspan28">- Faire preuve de persévérance
 </tspan><tspan
          x="75"
          y="452.67509"
-         id="tspan15">- Faire preuve de réactivité
+         id="tspan29">- Faire preuve de réactivité
 </tspan><tspan
          x="75"
          y="464.40846"
-         id="tspan16">- Faire preuve de rigueur et de précision
+         id="tspan30">- Faire preuve de rigueur et de précision
 </tspan><tspan
          x="75"
          y="476.14182"
-         id="tspan17">- Gérer son stress
+         id="tspan31">- Gérer son stress
 </tspan><tspan
          x="75"
          y="487.87519"
-         id="tspan18">- Organiser son travail selon les priorités et les </tspan><tspan
+         id="tspan32">- Organiser son travail selon les priorités et les </tspan><tspan
          x="75"
          y="499.60856"
-         id="tspan19">objectifs
+         id="tspan33">objectifs
 </tspan><tspan
          x="75"
          y="511.34193"
-         id="tspan20">- S'adapter aux changements</tspan></text><text
+         id="tspan34">- S'adapter aux changements</tspan></text><text
        xml:space="preserve"
        id="text8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#e2dece;stroke-opacity:0;filter:url(#filter74)"
@@ -1496,28 +1499,28 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="75"
          y="249.00825"
-         id="tspan21">- Développer un logiciel, un système d'informations, une </tspan><tspan
+         id="tspan35">- Développer un logiciel, un système d'informations, une </tspan><tspan
          x="75"
          y="260.74162"
-         id="tspan22">application
+         id="tspan36">application
 </tspan><tspan
          x="75"
          y="272.47498"
-         id="tspan23">- Conception de sites web
+         id="tspan37">- Conception de sites web
 </tspan><tspan
          x="75"
          y="284.20835"
-         id="tspan24">- Développer une application en lien avec une base de </tspan><tspan
+         id="tspan38">- Développer une application en lien avec une base de </tspan><tspan
          x="75"
          y="295.94172"
-         id="tspan25">données
+         id="tspan39">données
 </tspan><tspan
          x="75"
          y="307.67509"
-         id="tspan26">- Réaliser des éléments graphiques de composition à </tspan><tspan
+         id="tspan40">- Réaliser des éléments graphiques de composition à </tspan><tspan
          x="75"
          y="319.40846"
-         id="tspan27">l'aide d'outils graphiques informatiques</tspan></text><text
+         id="tspan41">l'aide d'outils graphiques informatiques</tspan></text><text
        xml:space="preserve"
        id="text87"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1525,15 +1528,15 @@
        inkscape:label="langues-titre-shadow"><tspan
          x="77.32402"
          y="78.977865"
-         id="tspan28">Langues</tspan></text><text
+         id="tspan42">Langues</tspan></text><text
        xml:space="preserve"
        id="text1-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-97);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-97);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(136.26797,622.91547)"
        inkscape:label="langues-titre"><tspan
          x="77.32402"
          y="78.444531"
-         id="tspan29">Langues</tspan></text><text
+         id="tspan43">Langues</tspan></text><text
        xml:space="preserve"
        id="text86"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect87);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1541,15 +1544,15 @@
        inkscape:label="logiciels-titre-shadow"><tspan
          x="38.861115"
          y="78.977865"
-         id="tspan30">logiciels et langages maitrises</tspan></text><text
+         id="tspan44">logiciels et langages maitrises</tspan></text><text
        xml:space="preserve"
        id="text1-75"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(59.066787,486.39546)"
        inkscape:label="logiciels-titre"><tspan
          x="39.741119"
          y="78.444531"
-         id="tspan31">logiciels et langages maitrises</tspan></text><text
+         id="tspan45">logiciels et langages maitrises</tspan></text><text
        xml:space="preserve"
        id="text85"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1557,15 +1560,15 @@
        inkscape:label="savoir-etre-titre-shadow"><tspan
          x="60.612015"
          y="78.977865"
-         id="tspan32">Savoir-etre</tspan></text><text
+         id="tspan46">Savoir-etre</tspan></text><text
        xml:space="preserve"
        id="text1-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-1);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-1);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(136.90797,299.06898)"
        inkscape:label="savoir-etre-titre"><tspan
          x="62.212021"
          y="78.444531"
-         id="tspan33">Savoir-etre</tspan></text><text
+         id="tspan47">Savoir-etre</tspan></text><text
        xml:space="preserve"
        id="text84"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1573,15 +1576,15 @@
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="57.980011"
          y="78.977865"
-         id="tspan34">Savoir-faire</tspan></text><text
+         id="tspan48">Savoir-faire</tspan></text><text
        xml:space="preserve"
        id="text1-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(136.90797,157.91547)"
        inkscape:label="savoir-faire-titre"><tspan
          x="60.460022"
          y="78.444531"
-         id="tspan35">Savoir-faire</tspan></text><text
+         id="tspan49">Savoir-faire</tspan></text><text
        xml:space="preserve"
        id="text90"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1589,15 +1592,15 @@
        inkscape:label="experiences-titre-shadow"><tspan
          x="58.548035"
          y="78.977865"
-         id="tspan36">experiences</tspan></text><text
+         id="tspan50">experiences</tspan></text><text
        xml:space="preserve"
        id="text1-2-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-3);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-3);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(678.76795,471.39548)"
        inkscape:label="experiences-titre"><tspan
          x="58.548035"
          y="78.444531"
-         id="tspan37">experiences</tspan></text><text
+         id="tspan51">experiences</tspan></text><text
        xml:space="preserve"
        id="text89"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect89);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1605,15 +1608,15 @@
        inkscape:label="formations-titre-shadow"><tspan
          x="61.476013"
          y="78.977865"
-         id="tspan38">Formations</tspan></text><text
+         id="tspan52">Formations</tspan></text><text
        xml:space="preserve"
        id="text1-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(678.76795,112.15547)"
        inkscape:label="formations-titre"><tspan
          x="62.276016"
          y="78.444531"
-         id="tspan39">Formations</tspan></text><text
+         id="tspan53">Formations</tspan></text><text
        xml:space="preserve"
        id="text83"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1621,16 +1624,16 @@
        inkscape:label="competences-titre-shadow"><tspan
          x="53.116043"
          y="78.977865"
-         id="tspan40">Competences
+         id="tspan54">Competences
 </tspan></text><text
        xml:space="preserve"
        id="text1-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(144.04571,112.15547)"
        inkscape:label="competences-titre"><tspan
          x="53.116043"
          y="78.444531"
-         id="tspan41">Competences
+         id="tspan55">Competences
 </tspan></text><text
        xml:space="preserve"
        id="text7"
@@ -1641,28 +1644,28 @@
        inkscape:label="accroche"><tspan
          x="299.93975"
          y="125.59358"
-         id="tspan42">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
+         id="tspan56">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
 </tspan><tspan
          x="267.93463"
          y="138.92688"
-         id="tspan43">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
+         id="tspan57">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
          x="327.94424"
          y="152.26018"
-         id="tspan44">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
+         id="tspan58">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
        xml:space="preserve"
        id="text2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:1;fill:#e2dece;fill-opacity:1;stroke-opacity:0;filter:url(#filter78)"
        inkscape:label="Info-texte"><tspan
          x="61.985352"
          y="95.260809"
-         id="tspan45">Chauny - 02300 </tspan><tspan
+         id="tspan59">Chauny - 02300 </tspan><tspan
          x="40.381836"
          y="107.26081"
-         id="tspan46">rifflettim@gmail.com
+         id="tspan60">rifflettim@gmail.com
 </tspan><tspan
          x="61.985352"
          y="119.26081"
-         id="tspan47">07 84 94 34 68 </tspan></text><text
+         id="tspan61">07 84 94 34 68 </tspan></text><text
        xml:space="preserve"
        id="text82"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect82);display:inline;opacity:1;fill:#2f2b33;stroke-opacity:0"
@@ -1670,15 +1673,15 @@
        inkscape:label="info-titre-shadow"><tspan
          x="42.467987"
          y="78.977865"
-         id="tspan48">Timothe Rifflet</tspan></text><text
+         id="tspan62">Timothe Rifflet</tspan></text><text
        xml:space="preserve"
        id="text1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:1;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:1;fill:#ffffff;stroke-opacity:0"
        transform="translate(-5.1842217,1.7329099)"
        inkscape:label="info-titre"><tspan
          x="42.627991"
          y="78.444531"
-         id="tspan49">Timothe Rifflet</tspan></text><text
+         id="tspan63">Timothe Rifflet</tspan></text><text
        xml:space="preserve"
        id="text1-0-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-8);shape-padding:0.863738;display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1686,16 +1689,16 @@
        inkscape:label="job-titre-shadow"><tspan
          x="57.48642"
          y="106.50781"
-         id="tspan50">Developpeur informatique</tspan></text><text
+         id="tspan64">Developpeur informatique</tspan></text><text
        xml:space="preserve"
        id="text80"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect80);shape-padding:0.863738;display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect80);shape-padding:0.863738;display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(200.55999,-36.22699)"
        inkscape:label="job-titre"><tspan
          x="60.846451"
          y="104.90781"
-         id="tspan51">Developpeur informatique</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.24995;stroke-opacity:0;filter:url(#filter101)"
+         id="tspan65">Developpeur informatique</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.24995;stroke-opacity:0;filter:url(#filter101)"
        id="rect3-5-6-97"
        width="255.2569"
        height="81.813118"
@@ -1712,15 +1715,15 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="194.18991"
          y="249.00825"
-         id="tspan52">Aideq - Chauny (02)
+         id="tspan66">Aideq - Chauny (02)
 </tspan><tspan
          x="197.39044"
          y="260.74162"
-         id="tspan53">Certification Cléa
+         id="tspan67">Certification Cléa
 </tspan><tspan
          x="190.98938"
          y="272.47498"
-         id="tspan54">Depuis Novembre 2024</tspan></text><text
+         id="tspan68">Depuis Novembre 2024</tspan></text><text
        xml:space="preserve"
        id="text84-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84-3);display:inline;fill:#2f2b33;stroke-opacity:0"
@@ -1728,16 +1731,16 @@
        inkscape:label="SEV-shadow"><tspan
          x="45.277832"
          y="78.977865"
-         id="tspan55">S'engager vers l'emploi</tspan></text><text
+         id="tspan69">S'engager vers l'emploi</tspan></text><text
        xml:space="preserve"
        id="text1-0-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-3);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-3);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(523.21921,168.17067)"
        inkscape:label="SEV"><tspan
          x="39.624634"
          y="78.444531"
-         id="tspan56">S'engager vers l'emploi</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.23197;stroke-opacity:0;filter:url(#filter103)"
+         id="tspan70">S'engager vers l'emploi</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23197;stroke-opacity:0;filter:url(#filter103)"
        id="rect3-5-6-7"
        width="252.2748"
        height="80.414902"
@@ -1754,19 +1757,19 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="149.38248"
          y="249.00825"
-         id="tspan57">ID Formation - Saint Quentin (02)
+         id="tspan71">ID Formation - Saint Quentin (02)
 </tspan><tspan
          x="168.58566"
          y="260.74162"
-         id="tspan58">Titre Professionel - Bac +4
+         id="tspan72">Titre Professionel - Bac +4
 </tspan><tspan
          x="171.7862"
          y="272.47498"
-         id="tspan59">Décembre 2021 à Avril 2022
+         id="tspan73">Décembre 2021 à Avril 2022
 </tspan><tspan
          x="255"
          y="284.20835"
-         id="tspan60">
+         id="tspan74">
 </tspan></text><text
        xml:space="preserve"
        id="text84-8"
@@ -1775,16 +1778,16 @@
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="48.084991"
          y="78.977865"
-         id="tspan61">concepteur-designer ui</tspan></text><text
+         id="tspan75">concepteur-designer ui</tspan></text><text
        xml:space="preserve"
        id="text1-0-93"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(790.33448,168.17069)"
        inkscape:label="savoir-faire-titre"><tspan
          x="42.320343"
          y="78.444531"
-         id="tspan62">Concepteur-designer ui</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.34834;stroke-opacity:0;filter:url(#filter107)"
+         id="tspan76">Concepteur-designer ui</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.34834;stroke-opacity:0;filter:url(#filter107)"
        id="rect3-5-6-7-0"
        width="269.99997"
        height="90.000008"
@@ -1801,19 +1804,19 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="190.98938"
          y="249.00825"
-         id="tspan63">Ecole 42 - Lyon (69)
+         id="tspan77">Ecole 42 - Lyon (69)
 </tspan><tspan
          x="171.7862"
          y="260.74162"
-         id="tspan64">Niveau 2ème année - Bac +3
+         id="tspan78">Niveau 2ème année - Bac +3
 </tspan><tspan
          x="178.18726"
          y="272.47498"
-         id="tspan65">Octobre 2019 à Août 2021
+         id="tspan79">Octobre 2019 à Août 2021
 </tspan><tspan
          x="255"
          y="284.20835"
-         id="tspan66">
+         id="tspan80">
 </tspan></text><text
        xml:space="preserve"
        id="text84-8-8"
@@ -1822,22 +1825,22 @@
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="38.965027"
          y="78.977865"
-         id="tspan67">concepteur developpeur </tspan><tspan
+         id="tspan81">concepteur developpeur </tspan><tspan
          x="85.076981"
          y="94.977865"
-         id="tspan68">en informatique</tspan></text><text
+         id="tspan82">en informatique</tspan></text><text
        xml:space="preserve"
        id="text1-0-93-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-2);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-2);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(509.07276,262.91551)"
        inkscape:label="savoir-faire-titre"><tspan
          x="33.520386"
          y="78.444531"
-         id="tspan69">Concepteur Developpeur </tspan><tspan
+         id="tspan83">Concepteur Developpeur </tspan><tspan
          x="80.112335"
          y="94.444531"
-         id="tspan70">en informatique</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.30333;stroke-opacity:0;filter:url(#filter105)"
+         id="tspan84">en informatique</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.30333;stroke-opacity:0;filter:url(#filter105)"
        id="rect3-5-6-7-8"
        width="252.2748"
        height="90.000008"
@@ -1854,19 +1857,19 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="194.18991"
          y="249.00825"
-         id="tspan71">Epitech - Lyon (69)
+         id="tspan85">Epitech - Lyon (69)
 </tspan><tspan
          x="197.39044"
          y="260.74162"
-         id="tspan72">Niveau 1ère Année 
+         id="tspan86">Niveau 1ère Année 
 </tspan><tspan
          x="174.98673"
          y="272.47498"
-         id="tspan73">Octobre 2017 à Avril 2019
+         id="tspan87">Octobre 2017 à Avril 2019
 </tspan><tspan
          x="255"
          y="284.20835"
-         id="tspan74">
+         id="tspan89">
 </tspan></text><text
        xml:space="preserve"
        id="text84-8-3"
@@ -1875,29 +1878,29 @@
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="64.916977"
          y="78.977865"
-         id="tspan75">Expert en ingenierie </tspan><tspan
+         id="tspan90">Expert en ingenierie </tspan><tspan
          x="115.31697"
          y="94.977865"
-         id="tspan76">logicielle</tspan></text><text
+         id="tspan91">logicielle</tspan></text><text
        xml:space="preserve"
        id="text1-0-93-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-7);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-7);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(791.22166,262.91552)"
        inkscape:label="savoir-faire-titre"><tspan
          x="59.152328"
          y="78.444531"
-         id="tspan77">expert en ingenierie </tspan><tspan
+         id="tspan92">expert en ingenierie </tspan><tspan
          x="109.87233"
          y="94.444531"
-         id="tspan78">logicielle</tspan></text><text
+         id="tspan93">logicielle</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#2f2b33;stroke-opacity:0"
        x="890.48053"
        y="477.61029"
        id="text88"><tspan
          sodipodi:role="line"
-         id="tspan88" /></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.31003;stroke-opacity:0;filter:url(#filter111)"
+         id="tspan88"></tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.31003;stroke-opacity:0;filter:url(#filter111)"
        id="rect3-5-6-7-6"
        width="285.25552"
        height="80.414902"
@@ -1914,19 +1917,19 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="242.19788"
          y="249.00825"
-         id="tspan79">PSC1
+         id="tspan94">PSC1
 </tspan><tspan
          x="178.18726"
          y="260.74162"
-         id="tspan80">Croix-Rouge, Chauny (02)
+         id="tspan95">Croix-Rouge, Chauny (02)
 </tspan><tspan
          x="213.3931"
          y="272.47498"
-         id="tspan81">Décembre 2021
+         id="tspan96">Décembre 2021
 </tspan><tspan
          x="255"
          y="284.20835"
-         id="tspan82">
+         id="tspan97">
 </tspan></text><text
        xml:space="preserve"
        id="text84-8-2"
@@ -1935,16 +1938,16 @@
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="40.545975"
          y="78.977865"
-         id="tspan83">Formation premier Secours</tspan></text><text
+         id="tspan98">Formation premier Secours</tspan></text><text
        xml:space="preserve"
        id="text1-0-93-67"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(657.17987,367.91549)"
        inkscape:label="savoir-faire-titre"><tspan
          x="35.559845"
          y="78.444531"
-         id="tspan84">Formation Premier Secours</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.63121;stroke-opacity:0;filter:url(#filter119)"
+         id="tspan99">Formation Premier Secours</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.63121;stroke-opacity:0;filter:url(#filter119)"
        id="rect3-5-6-7-6-2"
        width="285"
        height="124.79256"
@@ -1961,40 +1964,40 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="191.63825"
          y="249.00825"
-         id="tspan85">Giens - 83
+         id="tspan100">Giens - 83
 </tspan><tspan
          x="201.23984"
          y="260.74162"
-         id="tspan86">TLV-TVM
+         id="tspan101">TLV-TVM
 </tspan><tspan
          x="169.23453"
          y="272.47498"
-         id="tspan87">Avril À Juin 2019
+         id="tspan102">Avril À Juin 2019
 </tspan><tspan
          x="114.8255"
          y="284.20835"
-         id="tspan89">Réception marchandise et courrier, </tspan><tspan
+         id="tspan103">Réception marchandise et courrier, </tspan><tspan
          x="127.62763"
          y="295.94172"
-         id="tspan90">embarquement des marchandises.
+         id="tspan104">embarquement des marchandises.
 </tspan></text><text
        xml:space="preserve"
        id="text84-8-2-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84-0-9-9);display:inline;fill:#2f2b33;stroke-opacity:0"
-       transform="matrix(0.99469861,0,0,1,487.13949,532.36718)"
+       transform="matrix(0.99469861,0,0,1,487.51745,532.36718)"
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="66.529938"
          y="78.977865"
-         id="tspan91">Agent de transit fret</tspan></text><text
+         id="tspan105">Agent de transit fret</tspan></text><text
        xml:space="preserve"
        id="text1-0-93-67-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1-6);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1-6);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(492.39655,533.12294)"
        inkscape:label="savoir-faire-titre"><tspan
          x="61.223801"
          y="78.444531"
-         id="tspan92">Agent de transit Fret</tspan></text><rect
-       style="display:inline;fill:#4e5464;fill-opacity:1;stroke:none;stroke-width:1.48246;stroke-opacity:0;filter:url(#filter121)"
+         id="tspan106">Agent de transit Fret</tspan></text><rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.48246;stroke-opacity:0;filter:url(#filter121)"
        id="rect3-5-6-7-6-8"
        width="234.99998"
        height="125.00002"
@@ -2011,44 +2014,44 @@
        inkscape:label="Savoir-faire-texte"><tspan
          x="133.45136"
          y="249.00825"
-         id="tspan93">Port-Cros - 83
+         id="tspan107">Port-Cros - 83
 </tspan><tspan
          x="136.65189"
          y="260.74162"
-         id="tspan94">Parc National
+         id="tspan108">Parc National
 </tspan><tspan
          x="101.44605"
          y="272.47498"
-         id="tspan95">Septembre &amp; Octobre 2017
+         id="tspan109">Septembre &amp; Octobre 2017
 </tspan><tspan
          x="75.841799"
          y="284.20835"
-         id="tspan96">Accueil des touristes, ventes de </tspan><tspan
+         id="tspan110">Accueil des touristes, ventes de </tspan><tspan
          x="75.841799"
          y="295.94172"
-         id="tspan97">souvenirs, entretien des espaces </tspan><tspan
+         id="tspan111">souvenirs, entretien des espaces </tspan><tspan
          x="114.24817"
          y="307.67509"
-         id="tspan98">publics, missions de </tspan><tspan
+         id="tspan112">publics, missions de </tspan><tspan
          x="114.24817"
          y="319.40846"
-         id="tspan99">surveillance du parc</tspan></text><text
+         id="tspan113">surveillance du parc</tspan></text><text
        xml:space="preserve"
        id="text84-8-2-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Aemstel Shadow';-inkscape-font-specification:'Aemstel Shadow, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84-0-9-7);display:inline;fill:#2f2b33;stroke-opacity:0"
-       transform="matrix(0.99336475,0,0,1,788.11199,532.15976)"
+       transform="matrix(0.98859984,0,0,1,788.57415,532.15976)"
        inkscape:label="savoir-faire-titre-shadow"><tspan
          x="97.55397"
          y="78.977865"
-         id="tspan100">Agent d'accueil</tspan></text><text
+         id="tspan114">Agent d'accueil</tspan></text><text
        xml:space="preserve"
        id="text1-0-93-67-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1-0);display:inline;fill:#cda87b;stroke-opacity:0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1-0);display:inline;fill:#ffffff;stroke-opacity:0"
        transform="translate(792.65209,532.91552)"
        inkscape:label="savoir-faire-titre"><tspan
          x="92.567825"
          y="78.444531"
-         id="tspan101">Agent d'accueil</tspan></text></g><g
+         id="tspan115">Agent d'accueil</tspan></text></g><g
      inkscape:label="Modèle"
      inkscape:groupmode="layer"
      id="layer1"

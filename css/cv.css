@@ -63,15 +63,20 @@ body {
 	padding: 20px;
 	grid-gap: 10px;
 	grid-template-areas:
-	"info job job"
-	"comp comp form"
-	"comp comp exp"
-	"comp comp .";
+	"info job job pdf"
+	"comp comp form form"
+	"comp comp exp exp"
+	"comp comp . .";
 }
 
 #job .title span {
 	width: 100%;
 	font-size: 50pt;
+}
+
+#pdf {
+	background-color: var(--nomad-red);
+	grid-area: pdf;
 }
 
 #job {
