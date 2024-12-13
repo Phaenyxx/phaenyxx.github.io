@@ -5,42 +5,6 @@
 	box-sizing: border-box;
 }
 
-a {
-	text-decoration: none;
-	border-style: none;
-	outline: none;
-	transition: 0.5s ease-in-out;
-}
-
-a:before{
-	content:" ";
-	width:10px;
-	height:10px;
-	left: 48%;
-	position:absolute;
-	transition:all 0.5s ease-in-out;
-	opacity: 0.1;
-}
-
-a:before{
-	bottom:-5px;
-	border-bottom:5px solid var(--nomad-black);
-}
-
-a:hover, a:focus{
-	border-top-right-radius:0px;
-	border-bottom-left-radius:0px;
-}
-
-a:hover:before, a:focus::before{
-	
-	width:100%;
-	height:100%;
-	opacity: 1;
-	left: 0;
-}
-
-
 html {
 	background-color: var(--nomad-grey);
 	margin: 0;
@@ -63,35 +27,68 @@ body {
 	padding: 20px;
 	grid-gap: 10px;
 	grid-template-areas:
-	"info job job pdf"
+	"info job job job"
 	"comp comp form form"
 	"comp comp exp exp"
 	"comp comp . .";
 }
 
-#job .title span {
-	width: 100%;
-	font-size: 50pt;
+#job {
+	display: grid;
+	grid-area: job;
+	justify-items: center;
+	grid-template-areas:
+	"job-title pdf"
+	"accroche accroche";
+	grid-template-columns:minmax(0, 1fr) auto ;
 }
 
 #pdf {
 	background-color: var(--nomad-red);
+	flex-direction: row;
 	grid-area: pdf;
+	height: min-content;
+	width: 200px;
 }
 
-#job {
-	grid-area: job;
+a {
+	padding: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	border-style: none;
+	border-bottom: 3px solid var(--nomad-black);
+	transition: 0.3s ease-in-out;
 }
 
-#job .title {
+a:hover {
+	color: var(--nomad-beige);
+	border-bottom: 3px solid var(--nomad-beige);
+}
+
+a:focus{
+	color: var(--nomad-white);
+	border-bottom: 3px solid var(--nomad-white);
+}
+
+
+#job-title {
 	display: flex;
+	width: auto;
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
 	margin-bottom: 10px;
 }
-#job .card{
-	width: unset;
+
+#job-title span {
+	width: 100%;
+	font-size: 50pt;
+}
+
+#accroche{
+	grid-column: 1/3;
+	width: 100%;
 	background-color: var(--nomad-ocean);
 	padding: 20px;
 }
