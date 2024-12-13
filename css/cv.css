@@ -49,6 +49,7 @@ body {
 	grid-area: pdf;
 	height: min-content;
 	width: 200px;
+	padding: 10px;
 }
 
 a {
@@ -149,7 +150,7 @@ a:focus{
 	flex-direction: column;
 	justify-content: space-evenly;
 	align-items: center;
-	padding: 15px;
+	padding: 10px;
 	margin: 5px;
 	position: relative;
 	text-align: center;
