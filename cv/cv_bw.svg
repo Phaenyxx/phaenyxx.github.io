@@ -26,17 +26,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0111627"
-     inkscape:cx="609.69417"
-     inkscape:cy="283.83167"
-     inkscape:window-width="1916"
-     inkscape:window-height="1040"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.715"
+     inkscape:cx="232.86713"
+     inkscape:cy="699.3007"
+     inkscape:window-width="1892"
+     inkscape:window-height="1022"
+     inkscape:window-x="10"
+     inkscape:window-y="10"
      inkscape:window-maximized="1"
-     showgrid="false"
+     showgrid="true"
      inkscape:antialias-rendering="true"
-     inkscape:current-layer="layer4"><inkscape:grid
+     inkscape:current-layer="layer3"><inkscape:grid
        id="grid7"
        units="px"
        originx="-0.090909302"
@@ -49,7 +49,7 @@
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
-       visible="false" /></sodipodi:namedview><defs
+       visible="true" /></sodipodi:namedview><defs
      id="defs1"><rect
        x="75"
        y="710"
@@ -1266,32 +1266,32 @@
        inkscape:transform-center-y="2.2954744"
        transform="matrix(1,0,0.03101228,0.999519,0,0)"
        inkscape:label="accroche" /><rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.90977;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.90253;stroke-opacity:1"
        id="rect3-5-6"
-       width="390"
-       height="125.00001"
-       x="60"
-       y="215"
-       inkscape:transform-center-x="6.3555396"
-       inkscape:transform-center-y="5.7386152"
+       width="390.00723"
+       height="124.05235"
+       x="59.996384"
+       y="214.99638"
+       inkscape:transform-center-x="6.3556575"
+       inkscape:transform-center-y="5.695112"
        inkscape:label="savoir-faire" /><rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.73069;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.7769;stroke-opacity:1"
        id="rect3-5-6-9"
-       width="389.99997"
-       height="102.65523"
-       x="60"
-       y="547.34479"
-       inkscape:transform-center-x="6.3555489"
-       inkscape:transform-center-y="4.7128017"
+       width="389.95377"
+       height="108.22307"
+       x="60.023106"
+       y="545.88849"
+       inkscape:transform-center-x="6.354792"
+       inkscape:transform-center-y="4.9684593"
        inkscape:label="logiciels" /><rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.19663;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.15614;stroke-opacity:1"
        id="rect3-5-6-6"
-       width="390"
-       height="165.37398"
-       x="60"
-       y="359.62604"
-       inkscape:transform-center-x="6.3555446"
-       inkscape:transform-center-y="7.5921652"
+       width="390.0405"
+       height="159.31615"
+       x="59.979752"
+       y="359.60577"
+       inkscape:transform-center-x="6.3562045"
+       inkscape:transform-center-y="7.3140362"
        inkscape:label="savoir-etre" /><rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.19242;stroke-opacity:1"
        id="rect3-5-2"
@@ -1311,14 +1311,14 @@
        inkscape:transform-center-x="9.3703548"
        inkscape:transform-center-y="1.8363671"
        inkscape:label="formations" /><rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.33508;stroke-opacity:1"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.36964;stroke-opacity:1"
        id="rect3-5-6-3"
-       width="390"
-       height="61.088333"
-       x="60"
-       y="683.91168"
-       inkscape:transform-center-x="6.3555336"
-       inkscape:transform-center-y="2.8045017"
+       width="389.96542"
+       height="64.297913"
+       x="60.017281"
+       y="680.68481"
+       inkscape:transform-center-x="6.354978"
+       inkscape:transform-center-y="2.9518434"
        inkscape:label="langues" /><rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.31176;stroke-opacity:1"
        id="rect3-5-2-7-9"
@@ -1410,28 +1410,28 @@
          inkscape:label="agent"><tspan
            x="133.45136"
            y="249.00825"
-           id="tspan145">Port-Cros - 83
+           id="tspan1">Port-Cros - 83
 </tspan><tspan
            x="136.65189"
            y="260.74162"
-           id="tspan146">Parc National
+           id="tspan2">Parc National
 </tspan><tspan
            x="101.44605"
            y="272.47498"
-           id="tspan147">Septembre &amp; Octobre 2017
+           id="tspan3">Septembre &amp; Octobre 2017
 </tspan><tspan
            x="75.841799"
            y="284.20835"
-           id="tspan148">Accueil des touristes, ventes de </tspan><tspan
+           id="tspan4">Accueil des touristes, ventes de </tspan><tspan
            x="75.841799"
            y="295.94172"
-           id="tspan149">souvenirs, entretien des espaces </tspan><tspan
+           id="tspan5">souvenirs, entretien des espaces </tspan><tspan
            x="114.24817"
            y="307.67509"
-           id="tspan150">publics, missions de </tspan><tspan
+           id="tspan6">publics, missions de </tspan><tspan
            x="114.24817"
            y="319.40846"
-           id="tspan151">surveillance du parc</tspan></text><text
+           id="tspan7">surveillance du parc</tspan></text><text
          xml:space="preserve"
          id="text8-75-64-7-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-5-9-9-4);display:inline;fill:#e2dece;stroke-opacity:0"
@@ -1441,22 +1441,22 @@
          inkscape:label="transit"><tspan
            x="191.63825"
            y="249.00825"
-           id="tspan152">Giens - 83
+           id="tspan8">Giens - 83
 </tspan><tspan
            x="201.23984"
            y="260.74162"
-           id="tspan153">TLV-TVM
+           id="tspan9">TLV-TVM
 </tspan><tspan
            x="169.23453"
            y="272.47498"
-           id="tspan154">Avril À Juin 2019
+           id="tspan10">Avril À Juin 2019
 </tspan><tspan
            x="114.8255"
            y="284.20835"
-           id="tspan155">Réception marchandise et courrier, </tspan><tspan
+           id="tspan11">Réception marchandise et courrier, </tspan><tspan
            x="127.62763"
            y="295.94172"
-           id="tspan156">embarquement des marchandises.
+           id="tspan12">embarquement des marchandises.
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-64-5"
@@ -1467,19 +1467,19 @@
          inkscape:label="psc1"><tspan
            x="242.19788"
            y="249.00825"
-           id="tspan157">PSC1
+           id="tspan13">PSC1
 </tspan><tspan
            x="178.18726"
            y="260.74162"
-           id="tspan158">Croix-Rouge, Chauny (02)
+           id="tspan14">Croix-Rouge, Chauny (02)
 </tspan><tspan
            x="213.3931"
            y="272.47498"
-           id="tspan159">Décembre 2021
+           id="tspan15">Décembre 2021
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan160">
+           id="tspan16">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-1-5"
@@ -1490,19 +1490,19 @@
          inkscape:label="epi"><tspan
            x="194.18991"
            y="249.00825"
-           id="tspan161">Epitech - Lyon (69)
+           id="tspan17">Epitech - Lyon (69)
 </tspan><tspan
            x="197.39044"
            y="260.74162"
-           id="tspan162">Niveau 1ère Année 
+           id="tspan18">Niveau 1ère Année 
 </tspan><tspan
            x="174.98673"
            y="272.47498"
-           id="tspan163">Octobre 2017 à Avril 2019
+           id="tspan19">Octobre 2017 à Avril 2019
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan164">
+           id="tspan20">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-6-6"
@@ -1513,19 +1513,19 @@
          inkscape:label="42"><tspan
            x="190.98938"
            y="249.00825"
-           id="tspan165">Ecole 42 - Lyon (69)
+           id="tspan21">Ecole 42 - Lyon (69)
 </tspan><tspan
            x="171.7862"
            y="260.74162"
-           id="tspan166">Niveau 2ème année - Bac +3
+           id="tspan22">Niveau 2ème année - Bac +3
 </tspan><tspan
            x="178.18726"
            y="272.47498"
-           id="tspan167">Octobre 2019 à Août 2021
+           id="tspan23">Octobre 2019 à Août 2021
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan168">
+           id="tspan24">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-2"
@@ -1536,19 +1536,19 @@
          inkscape:label="cdui"><tspan
            x="149.38248"
            y="249.00825"
-           id="tspan169">ID Formation - Saint Quentin (02)
+           id="tspan25">ID Formation - Saint Quentin (02)
 </tspan><tspan
            x="168.58566"
            y="260.74162"
-           id="tspan170">Titre Professionel - Bac +4
+           id="tspan26">Titre Professionel - Bac +4
 </tspan><tspan
            x="171.7862"
            y="272.47498"
-           id="tspan171">Décembre 2021 à Avril 2022
+           id="tspan27">Décembre 2021 à Avril 2022
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan172">
+           id="tspan28">
 </tspan></text><text
          xml:space="preserve"
          id="text8-7-5"
@@ -1559,99 +1559,99 @@
          inkscape:label="SEV"><tspan
            x="194.18991"
            y="249.00825"
-           id="tspan173">Aideq - Chauny (02)
+           id="tspan29">Aideq - Chauny (02)
 </tspan><tspan
            x="197.39044"
            y="260.74162"
-           id="tspan174">Certification Cléa
+           id="tspan30">Certification Cléa
 </tspan><tspan
            x="190.98938"
            y="272.47498"
-           id="tspan175">Depuis Novembre 2024</tspan></text><text
+           id="tspan31">Depuis Novembre 2024</tspan></text><text
          xml:space="preserve"
          id="text15-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15-0);display:inline;fill:#e2dece;fill-opacity:1;stroke-opacity:0"
          inkscape:label="langues"><tspan
            x="75"
            y="719.00825"
-           id="tspan176">- Anglais niveau courant
+           id="tspan32">- Anglais niveau courant
 </tspan><tspan
            x="75"
            y="730.74165"
-           id="tspan177">- Espagnol niveau intermédiaire</tspan></text><text
+           id="tspan33">- Espagnol niveau intermédiaire</tspan></text><text
          xml:space="preserve"
          id="text13-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13-4);display:inline;fill:#e2dece;fill-opacity:1;stroke-opacity:0"
          inkscape:label="logiciels"><tspan
            x="75"
            y="584.00825"
-           id="tspan178">- Photoshop &amp; Illustrator
+           id="tspan34">- Photoshop &amp; Illustrator
 </tspan><tspan
            x="75"
            y="595.74165"
-           id="tspan179">- HTML &amp; CSS
+           id="tspan35">- HTML &amp; CSS
 </tspan><tspan
            x="75"
            y="607.47504"
-           id="tspan180">- C/C++
+           id="tspan36">- C/C++
 </tspan><tspan
            x="75"
            y="619.20844"
-           id="tspan181">- PHP
+           id="tspan37">- PHP
 </tspan><tspan
            x="75"
            y="630.94184"
-           id="tspan182">- SQL
+           id="tspan38">- SQL
 </tspan><tspan
            x="75"
            y="642.67524"
-           id="tspan183">- Plateformes de développement collaboratif (git)</tspan></text><text
+           id="tspan39">- Plateformes de développement collaboratif (git)</tspan></text><text
          xml:space="preserve"
          id="text9-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-8);display:inline;fill:#e2dece;stroke-opacity:0"
          inkscape:label="Savoir-etre"><tspan
            x="75"
            y="394.00825"
-           id="tspan184">- Faire preuve d'autonomie
+           id="tspan40">- Faire preuve d'autonomie
 </tspan><tspan
            x="75"
            y="405.74162"
-           id="tspan185">- Faire preuve d'autonomie
+           id="tspan41">- Faire preuve d'autonomie
 </tspan><tspan
            x="75"
            y="417.47498"
-           id="tspan186">- Faire preuve de créativité, d'inventivité
+           id="tspan42">- Faire preuve de créativité, d'inventivité
 </tspan><tspan
            x="75"
            y="429.20835"
-           id="tspan187">- Faire preuve de curiosité
+           id="tspan43">- Faire preuve de curiosité
 </tspan><tspan
            x="75"
            y="440.94172"
-           id="tspan188">- Faire preuve de persévérance
+           id="tspan44">- Faire preuve de persévérance
 </tspan><tspan
            x="75"
            y="452.67509"
-           id="tspan189">- Faire preuve de réactivité
+           id="tspan45">- Faire preuve de réactivité
 </tspan><tspan
            x="75"
            y="464.40846"
-           id="tspan190">- Faire preuve de rigueur et de précision
+           id="tspan46">- Faire preuve de rigueur et de précision
 </tspan><tspan
            x="75"
            y="476.14182"
-           id="tspan191">- Gérer son stress
+           id="tspan47">- Gérer son stress
 </tspan><tspan
            x="75"
            y="487.87519"
-           id="tspan192">- Organiser son travail selon les priorités et les </tspan><tspan
+           id="tspan48">- Organiser son travail selon les priorités et les </tspan><tspan
            x="75"
            y="499.60856"
-           id="tspan193">objectifs
+           id="tspan49">objectifs
 </tspan><tspan
            x="75"
            y="511.34193"
-           id="tspan194">- S'adapter aux changements</tspan></text><text
+           id="tspan50">- S'adapter aux changements</tspan></text><text
          xml:space="preserve"
          id="text8-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-8);display:inline;fill:#e2dece;stroke-opacity:0"
@@ -1661,28 +1661,28 @@
          inkscape:label="Savoir-faire"><tspan
            x="75"
            y="249.00825"
-           id="tspan195">- Développer un logiciel, un système d'informations, une </tspan><tspan
+           id="tspan51">- Développer un logiciel, un système d'informations, une </tspan><tspan
            x="75"
            y="260.74162"
-           id="tspan196">application
+           id="tspan52">application
 </tspan><tspan
            x="75"
            y="272.47498"
-           id="tspan197">- Conception de sites web
+           id="tspan53">- Conception de sites web
 </tspan><tspan
            x="75"
            y="284.20835"
-           id="tspan198">- Développer une application en lien avec une base de </tspan><tspan
+           id="tspan54">- Développer une application en lien avec une base de </tspan><tspan
            x="75"
            y="295.94172"
-           id="tspan199">données
+           id="tspan55">données
 </tspan><tspan
            x="75"
            y="307.67509"
-           id="tspan200">- Réaliser des éléments graphiques de composition à </tspan><tspan
+           id="tspan56">- Réaliser des éléments graphiques de composition à </tspan><tspan
            x="75"
            y="319.40846"
-           id="tspan201">l'aide d'outils graphiques informatiques</tspan></text><text
+           id="tspan57">l'aide d'outils graphiques informatiques</tspan></text><text
          xml:space="preserve"
          id="text7-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7-8);display:inline;opacity:1;fill:#e2dece;fill-opacity:1;stroke:none;stroke-opacity:0"
@@ -1692,28 +1692,28 @@
          inkscape:label="accroche"><tspan
            x="299.93975"
            y="125.59358"
-           id="tspan202">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
+           id="tspan58">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
 </tspan><tspan
            x="267.93463"
            y="138.92688"
-           id="tspan203">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
+           id="tspan59">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
            x="327.94424"
            y="152.26018"
-           id="tspan204">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
+           id="tspan60">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
          xml:space="preserve"
          id="text2-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-97);display:inline;opacity:1;fill:#e2dece;fill-opacity:1;stroke-opacity:0"
          inkscape:label="Info"><tspan
            x="61.985352"
            y="95.260809"
-           id="tspan205">Chauny - 02300 </tspan><tspan
+           id="tspan61">Chauny - 02300 </tspan><tspan
            x="40.381836"
            y="107.26081"
-           id="tspan206">rifflettim@gmail.com
+           id="tspan62">rifflettim@gmail.com
 </tspan><tspan
            x="61.985352"
            y="119.26081"
-           id="tspan207">07 84 94 34 68 </tspan></text></g><g
+           id="tspan63">07 84 94 34 68 </tspan></text></g><g
        id="g130-9"
        inkscape:label="titres"
        style="display:inline"
@@ -1832,28 +1832,28 @@
          inkscape:label="agent"><tspan
            x="133.45136"
            y="249.00825"
-           id="tspan208">Port-Cros - 83
+           id="tspan64">Port-Cros - 83
 </tspan><tspan
            x="136.65189"
            y="260.74162"
-           id="tspan209">Parc National
+           id="tspan65">Parc National
 </tspan><tspan
            x="101.44605"
            y="272.47498"
-           id="tspan210">Septembre &amp; Octobre 2017
+           id="tspan66">Septembre &amp; Octobre 2017
 </tspan><tspan
            x="75.841799"
            y="284.20835"
-           id="tspan211">Accueil des touristes, ventes de </tspan><tspan
+           id="tspan67">Accueil des touristes, ventes de </tspan><tspan
            x="75.841799"
            y="295.94172"
-           id="tspan212">souvenirs, entretien des espaces </tspan><tspan
+           id="tspan68">souvenirs, entretien des espaces </tspan><tspan
            x="114.24817"
            y="307.67509"
-           id="tspan213">publics, missions de </tspan><tspan
+           id="tspan69">publics, missions de </tspan><tspan
            x="114.24817"
            y="319.40846"
-           id="tspan214">surveillance du parc</tspan></text><text
+           id="tspan70">surveillance du parc</tspan></text><text
          xml:space="preserve"
          id="text8-75-64-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9-5-9-9);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -1863,22 +1863,22 @@
          inkscape:label="transit"><tspan
            x="191.63825"
            y="249.00825"
-           id="tspan215">Giens - 83
+           id="tspan71">Giens - 83
 </tspan><tspan
            x="201.23984"
            y="260.74162"
-           id="tspan216">TLV-TVM
+           id="tspan72">TLV-TVM
 </tspan><tspan
            x="169.23453"
            y="272.47498"
-           id="tspan217">Avril À Juin 2019
+           id="tspan73">Avril À Juin 2019
 </tspan><tspan
            x="114.8255"
            y="284.20835"
-           id="tspan218">Réception marchandise et courrier, </tspan><tspan
+           id="tspan74">Réception marchandise et courrier, </tspan><tspan
            x="127.62763"
            y="295.94172"
-           id="tspan219">embarquement des marchandises.
+           id="tspan75">embarquement des marchandises.
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-64"
@@ -1889,19 +1889,19 @@
          inkscape:label="psc1"><tspan
            x="242.19788"
            y="249.00825"
-           id="tspan220">PSC1
+           id="tspan76">PSC1
 </tspan><tspan
            x="178.18726"
            y="260.74162"
-           id="tspan221">Croix-Rouge, Chauny (02)
+           id="tspan77">Croix-Rouge, Chauny (02)
 </tspan><tspan
            x="213.3931"
            y="272.47498"
-           id="tspan222">Décembre 2021
+           id="tspan78">Décembre 2021
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan223">
+           id="tspan79">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-1"
@@ -1912,19 +1912,19 @@
          inkscape:label="epi"><tspan
            x="194.18991"
            y="249.00825"
-           id="tspan224">Epitech - Lyon (69)
+           id="tspan80">Epitech - Lyon (69)
 </tspan><tspan
            x="197.39044"
            y="260.74162"
-           id="tspan225">Niveau 1ère Année 
+           id="tspan81">Niveau 1ère Année 
 </tspan><tspan
            x="174.98673"
            y="272.47498"
-           id="tspan226">Octobre 2017 à Avril 2019
+           id="tspan82">Octobre 2017 à Avril 2019
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan227">
+           id="tspan83">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75-6"
@@ -1935,19 +1935,19 @@
          inkscape:label="42"><tspan
            x="190.98938"
            y="249.00825"
-           id="tspan228">Ecole 42 - Lyon (69)
+           id="tspan84">Ecole 42 - Lyon (69)
 </tspan><tspan
            x="171.7862"
            y="260.74162"
-           id="tspan229">Niveau 2ème année - Bac +3
+           id="tspan85">Niveau 2ème année - Bac +3
 </tspan><tspan
            x="178.18726"
            y="272.47498"
-           id="tspan230">Octobre 2019 à Août 2021
+           id="tspan86">Octobre 2019 à Août 2021
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan231">
+           id="tspan87">
 </tspan></text><text
          xml:space="preserve"
          id="text8-75"
@@ -1958,19 +1958,19 @@
          inkscape:label="cdui"><tspan
            x="149.38248"
            y="249.00825"
-           id="tspan232">ID Formation - Saint Quentin (02)
+           id="tspan88">ID Formation - Saint Quentin (02)
 </tspan><tspan
            x="168.58566"
            y="260.74162"
-           id="tspan233">Titre Professionel - Bac +4
+           id="tspan89">Titre Professionel - Bac +4
 </tspan><tspan
            x="171.7862"
            y="272.47498"
-           id="tspan234">Décembre 2021 à Avril 2022
+           id="tspan90">Décembre 2021 à Avril 2022
 </tspan><tspan
            x="255"
            y="284.20835"
-           id="tspan235">
+           id="tspan91">
 </tspan></text><text
          xml:space="preserve"
          id="text8-7"
@@ -1981,99 +1981,95 @@
          inkscape:label="SEV"><tspan
            x="194.18991"
            y="249.00825"
-           id="tspan236">Aideq - Chauny (02)
+           id="tspan92">Aideq - Chauny (02)
 </tspan><tspan
            x="197.39044"
            y="260.74162"
-           id="tspan237">Certification Cléa
+           id="tspan93">Certification Cléa
 </tspan><tspan
            x="190.98938"
            y="272.47498"
-           id="tspan238">Depuis Novembre 2024</tspan></text><text
+           id="tspan94">Depuis Novembre 2024</tspan></text><text
          xml:space="preserve"
          id="text15"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect15);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0"
          inkscape:label="langues"><tspan
            x="75"
            y="719.00825"
-           id="tspan239">- Anglais niveau courant
+           id="tspan95">- Anglais niveau courant
 </tspan><tspan
            x="75"
            y="730.74165"
-           id="tspan240">- Espagnol niveau intermédiaire</tspan></text><text
+           id="tspan96">- Espagnol niveau intermédiaire</tspan></text><text
          xml:space="preserve"
          id="text13"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0"
          inkscape:label="logiciels"><tspan
            x="75"
            y="584.00825"
-           id="tspan241">- Photoshop &amp; Illustrator
+           id="tspan97">- Photoshop &amp; Illustrator
 </tspan><tspan
            x="75"
            y="595.74165"
-           id="tspan242">- HTML &amp; CSS
+           id="tspan98">- HTML &amp; CSS
 </tspan><tspan
            x="75"
            y="607.47504"
-           id="tspan243">- C/C++
+           id="tspan99">- C/C++
 </tspan><tspan
            x="75"
            y="619.20844"
-           id="tspan244">- PHP
+           id="tspan100">- PHP
 </tspan><tspan
            x="75"
            y="630.94184"
-           id="tspan245">- SQL
+           id="tspan101">- SQL
 </tspan><tspan
            x="75"
            y="642.67524"
-           id="tspan246">- Plateformes de développement collaboratif (git)</tspan></text><text
+           id="tspan102">- Plateformes de développement collaboratif (git)</tspan></text><text
          xml:space="preserve"
          id="text9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
          inkscape:label="Savoir-etre"><tspan
            x="75"
            y="394.00825"
-           id="tspan247">- Faire preuve d'autonomie
+           id="tspan103">- Faire preuve d'autonomie
 </tspan><tspan
            x="75"
            y="405.74162"
-           id="tspan248">- Faire preuve d'autonomie
+           id="tspan104">- Faire preuve de créativité, d'inventivité
 </tspan><tspan
            x="75"
            y="417.47498"
-           id="tspan249">- Faire preuve de créativité, d'inventivité
+           id="tspan105">- Faire preuve de curiosité
 </tspan><tspan
            x="75"
            y="429.20835"
-           id="tspan250">- Faire preuve de curiosité
+           id="tspan106">- Faire preuve de persévérance
 </tspan><tspan
            x="75"
            y="440.94172"
-           id="tspan251">- Faire preuve de persévérance
+           id="tspan107">- Faire preuve de réactivité
 </tspan><tspan
            x="75"
            y="452.67509"
-           id="tspan252">- Faire preuve de réactivité
+           id="tspan108">- Faire preuve de rigueur et de précision
 </tspan><tspan
            x="75"
            y="464.40846"
-           id="tspan253">- Faire preuve de rigueur et de précision
+           id="tspan109">- Gérer son stress
 </tspan><tspan
            x="75"
            y="476.14182"
-           id="tspan254">- Gérer son stress
-</tspan><tspan
+           id="tspan110">- Organiser son travail selon les priorités et les </tspan><tspan
            x="75"
            y="487.87519"
-           id="tspan255">- Organiser son travail selon les priorités et les </tspan><tspan
-           x="75"
-           y="499.60856"
-           id="tspan256">objectifs
+           id="tspan111">objectifs
 </tspan><tspan
            x="75"
-           y="511.34193"
-           id="tspan257">- S'adapter aux changements</tspan></text><text
+           y="499.60856"
+           id="tspan112">- S'adapter aux changements</tspan></text><text
          xml:space="preserve"
          id="text8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2083,28 +2079,28 @@
          inkscape:label="Savoir-faire"><tspan
            x="75"
            y="249.00825"
-           id="tspan258">- Développer un logiciel, un système d'informations, une </tspan><tspan
+           id="tspan113">- Développer un logiciel, un système d'informations, une </tspan><tspan
            x="75"
            y="260.74162"
-           id="tspan259">application
+           id="tspan114">application
 </tspan><tspan
            x="75"
            y="272.47498"
-           id="tspan260">- Conception de sites web
+           id="tspan115">- Conception de sites web
 </tspan><tspan
            x="75"
            y="284.20835"
-           id="tspan261">- Développer une application en lien avec une base de </tspan><tspan
+           id="tspan116">- Développer une application en lien avec une base de </tspan><tspan
            x="75"
            y="295.94172"
-           id="tspan262">données
+           id="tspan117">données
 </tspan><tspan
            x="75"
            y="307.67509"
-           id="tspan263">- Réaliser des éléments graphiques de composition à </tspan><tspan
+           id="tspan118">- Réaliser des éléments graphiques de composition à </tspan><tspan
            x="75"
            y="319.40846"
-           id="tspan264">l'aide d'outils graphiques informatiques</tspan></text><text
+           id="tspan119">l'aide d'outils graphiques informatiques</tspan></text><text
          xml:space="preserve"
          id="text7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0"
@@ -2114,28 +2110,28 @@
          inkscape:label="accroche"><tspan
            x="299.93975"
            y="125.59358"
-           id="tspan265">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
+           id="tspan120">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail. 
 </tspan><tspan
            x="267.93463"
            y="138.92688"
-           id="tspan266">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
+           id="tspan121">Doté de compétences variées dans le domaine du Développement, du Graphisme &amp; du Numérique, je souhaite </tspan><tspan
            x="327.94424"
            y="152.26018"
-           id="tspan267">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
+           id="tspan122">mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.</tspan></text><text
          xml:space="preserve"
          id="text2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, @wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 500;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0"
          inkscape:label="Info"><tspan
            x="61.985352"
            y="95.260809"
-           id="tspan268">Chauny - 02300 </tspan><tspan
+           id="tspan123">Chauny - 02300 </tspan><tspan
            x="40.381836"
            y="107.26081"
-           id="tspan269">rifflettim@gmail.com
+           id="tspan124">rifflettim@gmail.com
 </tspan><tspan
            x="61.985352"
            y="119.26081"
-           id="tspan270">07 84 94 34 68 </tspan></text></g><g
+           id="tspan125">07 84 94 34 68 </tspan></text></g><g
        id="g2889"
        inkscape:label="titres-shadow"
        style="display:inline;fill:none;stroke:#000000"
@@ -2224,7 +2220,7 @@
          inkscape:label="agent"><tspan
            x="92.567825"
            y="78.444531"
-           id="tspan271">Agent d'accueil</tspan></text><text
+           id="tspan126">Agent d'accueil</tspan></text><text
          xml:space="preserve"
          id="text1-0-93-67-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1-6);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2232,7 +2228,7 @@
          inkscape:label="transit"><tspan
            x="61.223801"
            y="78.444531"
-           id="tspan272">Agent de transit Fret</tspan></text><text
+           id="tspan127">Agent de transit Fret</tspan></text><text
          xml:space="preserve"
          id="text1-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-97);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2240,7 +2236,7 @@
          inkscape:label="langues"><tspan
            x="77.32402"
            y="78.444531"
-           id="tspan273">Langues</tspan></text><text
+           id="tspan128">Langues</tspan></text><text
          xml:space="preserve"
          id="text1-0-93-67"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-1);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2248,7 +2244,7 @@
          inkscape:label="psc1"><tspan
            x="35.559845"
            y="78.444531"
-           id="tspan274">Formation Premier Secours</tspan></text><text
+           id="tspan129">Formation Premier Secours</tspan></text><text
          xml:space="preserve"
          id="text1-0-93-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-7);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2256,10 +2252,10 @@
          inkscape:label="epi"><tspan
            x="59.152328"
            y="78.444531"
-           id="tspan275">expert en ingenierie </tspan><tspan
+           id="tspan130">expert en ingenierie </tspan><tspan
            x="109.87233"
            y="94.444531"
-           id="tspan276">logicielle</tspan></text><text
+           id="tspan131">logicielle</tspan></text><text
          xml:space="preserve"
          id="text1-0-93-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4-2);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2267,10 +2263,10 @@
          inkscape:label="42"><tspan
            x="33.520386"
            y="78.444531"
-           id="tspan277">Concepteur Developpeur </tspan><tspan
+           id="tspan132">Concepteur Developpeur </tspan><tspan
            x="80.112335"
            y="94.444531"
-           id="tspan278">en informatique</tspan></text><text
+           id="tspan133">en informatique</tspan></text><text
          xml:space="preserve"
          id="text1-0-93"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-4);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2278,7 +2274,7 @@
          inkscape:label="cdui"><tspan
            x="42.320343"
            y="78.444531"
-           id="tspan279">Concepteur-designer ui</tspan></text><text
+           id="tspan134">Concepteur-designer ui</tspan></text><text
          xml:space="preserve"
          id="text1-0-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3-3);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2286,7 +2282,7 @@
          inkscape:label="SEV"><tspan
            x="39.624634"
            y="78.444531"
-           id="tspan280">S'engager vers l'emploi</tspan></text><text
+           id="tspan135">S'engager vers l'emploi</tspan></text><text
          xml:space="preserve"
          id="text1-75"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2294,7 +2290,7 @@
          inkscape:label="logiciels"><tspan
            x="39.741119"
            y="78.444531"
-           id="tspan281">logiciels et langages maitrises</tspan></text><text
+           id="tspan136">logiciels et langages maitrises</tspan></text><text
          xml:space="preserve"
          id="text1-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-1);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2302,7 +2298,7 @@
          inkscape:label="savoir-etre"><tspan
            x="62.212021"
            y="78.444531"
-           id="tspan282">Savoir-etre</tspan></text><text
+           id="tspan137">Savoir-etre</tspan></text><text
          xml:space="preserve"
          id="text1-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2310,7 +2306,7 @@
          inkscape:label="savoir-faire"><tspan
            x="60.460022"
            y="78.444531"
-           id="tspan283">Savoir-faire</tspan></text><text
+           id="tspan138">Savoir-faire</tspan></text><text
          xml:space="preserve"
          id="text1-2-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-3);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2318,7 +2314,7 @@
          inkscape:label="experiences"><tspan
            x="58.548035"
            y="78.444531"
-           id="tspan284">experiences</tspan></text><text
+           id="tspan139">experiences</tspan></text><text
          xml:space="preserve"
          id="text1-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2326,7 +2322,7 @@
          inkscape:label="formations"><tspan
            x="62.276016"
            y="78.444531"
-           id="tspan285">Formations</tspan></text><text
+           id="tspan140">Formations</tspan></text><text
          xml:space="preserve"
          id="text1-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7);display:inline;fill:#000000;stroke:#000000;stroke-opacity:0"
@@ -2334,7 +2330,7 @@
          inkscape:label="competences"><tspan
            x="53.116043"
            y="78.444531"
-           id="tspan286">Competences
+           id="tspan141">Competences
 </tspan></text><text
          xml:space="preserve"
          id="text1"
@@ -2343,7 +2339,7 @@
          inkscape:label="info"><tspan
            x="42.627991"
            y="78.444531"
-           id="tspan287">Timothe Rifflet</tspan></text></g><g
+           id="tspan142">Timothe Rifflet</tspan></text></g><g
        id="g15391"
        inkscape:label="job"
        style="fill:none;stroke:#000000"><path
@@ -2358,7 +2354,7 @@
          inkscape:label="title"><tspan
            x="60.846451"
            y="104.90781"
-           id="tspan288">Developpeur informatique</tspan></text><path
+           id="tspan143">Developpeur informatique</tspan></text><path
          d="m 264.766,68.6808 h 14.88 c 9.216,0 16.8,-7.536 16.8,-16.8 0,-9.264 -7.584,-16.8 -16.8,-16.8 h -14.88 z m 7.68,-7.68 v -18.24 h 7.2 c 4.992,0 9.12,4.08 9.12,9.12 0,5.04 -4.128,9.12 -9.12,9.12 z m 29.472,7.68 h 26.4 v -7.68 h -18.72 v -5.52 h 15.84 v -7.2 h -15.84 v -5.52 h 18.72 v -7.68 h -26.4 z m 43.68,0 h 8.304 l 13.92,-33.6 h -8.304 l -9.792,23.568 -9.744,-23.568 h -8.304 z m 26.544,0 h 26.4 v -7.68 h -18.72 v -5.52 h 15.84 v -7.2 h -15.84 v -5.52 h 18.72 v -7.68 h -26.4 z m 32.16,0 h 25.92 v -7.68 h -18.24 v -25.92 h -7.68 z m 45.072,0.48 c 9.552,0 17.28,-7.728 17.28,-17.28 0,-9.552 -7.728,-17.28 -17.28,-17.28 -9.552,0 -17.28,7.728 -17.28,17.28 0,9.552 7.728,17.28 17.28,17.28 z m 0,-7.68 c -5.28,0 -9.6,-4.32 -9.6,-9.6 0,-5.28 4.32,-9.6 9.6,-9.6 5.28,0 9.6,4.32 9.6,9.6 0,5.28 -4.32,9.6 -9.6,9.6 z m 22.752,7.2 h 7.68 v -9.6 h 10.08 c 6.624,0 12,-5.376 12,-12 0,-6.624 -5.376,-12 -12,-12 h -17.76 z m 7.68,-17.28 v -8.64 h 10.08 c 2.4,0 4.32,1.92 4.32,4.32 0,2.4 -1.92,4.32 -4.32,4.32 z m 27.552,17.28 h 7.68 v -9.6 h 10.08 c 6.624,0 12,-5.376 12,-12 0,-6.624 -5.376,-12 -12,-12 h -17.76 z m 7.68,-17.28 v -8.64 h 10.08 c 2.4,0 4.32,1.92 4.32,4.32 0,2.4 -1.92,4.32 -4.32,4.32 z m 27.552,17.28 h 26.4 v -7.68 h -18.72 v -5.52 h 15.84 v -7.2 h -15.84 v -5.52 h 18.72 v -7.68 h -26.4 z m 47.088,0.48 c 8.448,0 15.36,-6.912 15.36,-15.36 v -18.72 h -7.68 v 18.72 c 0,4.224 -3.456,7.68 -7.68,7.68 -4.224,0 -7.68,-3.456 -7.68,-7.68 v -18.72 h -7.68 v 18.72 c 0,8.448 6.912,15.36 15.36,15.36 z m 21.6,-0.48 h 7.68 v -9.6 h 5.76 l 7.2,9.6 h 9.6 l -7.872,-10.512 c 4.32,-1.824 7.392,-6.096 7.392,-11.088 0,-6.624 -5.376,-12 -12,-12 h -17.76 z m 7.68,-17.28 v -8.64 h 10.08 c 2.4,0 4.32,1.92 4.32,4.32 0,2.4 -1.92,4.32 -4.32,4.32 z m 43.68,17.28 h 7.68 v -33.6 h -7.68 z m 14.4,0 h 7.68 v -21.984 l 16.32,21.984 h 8.64 v -33.6 h -7.68 v 21.984 L 685.63,35.0808 h -8.592 z m 39.36,0 h 7.68 v -13.2 h 14.88 v -6.72 h -14.88 v -6 h 17.76 v -7.68 h -25.44 z m 46.512,0.48 c 9.552,0 17.28,-7.728 17.28,-17.28 0,-9.552 -7.728,-17.28 -17.28,-17.28 -9.552,0 -17.28,7.728 -17.28,17.28 0,9.552 7.728,17.28 17.28,17.28 z m 0,-7.68 c -5.28,0 -9.6,-4.32 -9.6,-9.6 0,-5.28 4.32,-9.6 9.6,-9.6 5.28,0 9.6,4.32 9.6,9.6 0,5.28 -4.32,9.6 -9.6,9.6 z m 22.7521,7.2 h 7.6799 v -9.6 h 5.76 l 7.2,9.6 h 9.6 l -7.872,-10.512 c 4.32,-1.824 7.392,-6.096 7.392,-11.088 0,-6.624 -5.376,-12 -12,-12 h -17.76 z m 7.68,-17.28 -10e-5,-8.64 h 10.08 c 2.4,0 4.32,1.92 4.32,4.32 0,2.4 -1.92,4.32 -4.32,4.32 z m 27.3599,17.28 h 7.68 v -14.304 l 5.904,14.304 h 7.872 l 6.384,-14.88 v 14.88 h 7.68 v -33.6 h -8.016 l -9.936,23.136 -9.552,-23.136 h -8.016 z m 39.36,0 h 8.352 l 2.208,-5.28 h 15.168 l 2.16,5.28 h 8.304 l -13.92,-33.6 h -8.304 z m 13.728,-12.96 4.416,-10.608 4.368,10.608 z m 31.104,12.96 h 7.68 v -25.92 h 12 v -7.68 h -31.68 v 7.68 h 12 z m 23.52,0 h 7.68 v -33.6 h -7.68 z m 41.136,2.736 5.472,-5.472 -2.976,-2.928 c 2.544,-3.024 4.08,-6.912 4.08,-11.136 0,-9.552 -7.728,-17.28 -17.28,-17.28 -9.552,0 -17.28,7.728 -17.28,17.28 0,9.552 7.728,17.28 17.28,17.28 2.496,0 4.848,-0.528 7.008,-1.488 z m -10.704,-9.936 c -5.28,0 -9.6,-4.32 -9.6,-9.6 0,-5.28 4.32,-9.6 9.6,-9.6 5.28,0 9.6,4.32 9.6,9.6 0,5.28 -4.32,9.6 -9.6,9.6 z m 37.6801,7.68 c 8.448,0 15.36,-6.912 15.36,-15.36 v -18.72 h -7.68 v 18.72 c 0,4.224 -3.456,7.68 -7.68,7.68 -4.224,0 -7.68,-3.456 -7.68,-7.68 l -0.004,-18.72 h -7.68 v 18.72 c 0,8.448 6.912,15.36 15.36,15.36 z m 21.6,-0.48 h 26.4039 v -7.68 h -18.72 v -5.52 h 15.84 v -7.2 h -15.84 v -5.52 h 18.72 v -7.68 h -26.4 z"
          id="text260"
          style="font-size:48px;line-height:1;font-family:Aemstel;-inkscape-font-specification:'Aemstel, Normal';text-align:center;white-space:pre;shape-padding:0.863738;display:inline;fill:none;stroke:#000000;stroke-width:1.88976617;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stroke-linecap:butt;stroke-linejoin:round"
