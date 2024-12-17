@@ -165,29 +165,45 @@ a:focus{
 	width: 100%;
 	background-color: var(--nomad-red);
 }
+
 .title-card:hover {
 	box-shadow:  -2px -2px 0px var(--nomad-beige), 5px 5px 0px var(--nomad-black)
 }
-.title-card i {
+
+.title-card i{
 	color: var(--nomad-sienna);
 	text-shadow: 2px 2px 0px var(--nomad-black);
 }
-.title-card.active i, .title-card:hover i{	
+
+.title-card .ocean{
+	color: var(--nomad-ocean);
+}
+
+.title-card .blue{
+	color: var(--nomad-blue);
+}
+
+.title-card.active i.fa-caret-down, .title-card:hover i.fa-caret-down{	
 	color: var(--nomad-beige);
 }
 
 .flipcard {
 	height: 100px;
-	height: 100px;
-	min-width: 320px;
+	min-width: 300px;
 	display: flex;
-	flex-direction: column;
-	height: 100px;	
-	min-width: 320px;
-	display: flex;
+
 	flex-direction: column;
 	position: relative;
 	background-color: var(--nomad-ocean);
+}
+
+.flipcard.small {
+	height: 80px;
+}
+
+
+.flipcard.blue {
+	background-color: var(--nomad-blue);
 }
 
 .flip-before {
