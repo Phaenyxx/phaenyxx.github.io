@@ -201,7 +201,6 @@ a:focus{
 	height: 80px;
 }
 
-
 .flipcard.blue {
 	background-color: var(--nomad-blue);
 }
@@ -310,4 +309,4 @@ a:focus{
 		"form"
 		"exp";
 	}
-}
+}	
