@@ -8,31 +8,51 @@
 </head>
 <body>
 	<div id="content">
-		<div id="job">
-			<div class="title" id="job-title">
-				<span class="transparent">Developpeur Informatique</span>
-				<span class="regular">Developpeur Informatique</span>
-				<span class="shadow">Developpeur Informatique</span>
-				<span class="inside">Developpeur Informatique</span>
-			</div>
-			<div class="card" id="pdf">
-				<a href="cv/cv.pdf" class="text">PDF</a>
-				<a href="cv/cv_bw.pdf" class="text">N&B</a>
-			</div>
-			<div class="text card" id="accroche">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail - Doté de compétences variées dans le domaine du Développement, du Graphisme & du Numérique, je souhaite mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.
-			</div>
+		<div id="pict">
+			<img src="assets/pic.png" width="140px" height="140px"></a>
+		</div>
+		<div class="title" id="name">
+			<span class="transparent">Rifflet Timothe</span>
+			<span class="regular">Rifflet Timothe</span>
+			<span class="shadow">Rifflet Timothe</span>
+		</div>
+		<div class="title" id="jobs">
+			<span class="transparent">Developpeur Full Stack en alternance</span>
+			<span class="regular">Developpeur Full Stack  en alternance</span>
+			<span class="shadow">Developpeur Full Stack  en alternance</span>
+			<span class="inside">Developpeur Full Stack  en alternance</span>
+		</div>
+		<div class="card" id="pdf">
+			<a href="cv/cv.pdf" class="text">PDF</a>
+			<a href="cv/cv_bw.pdf" class="text">N&B</a>
+		</div>
+		<div class="text card" id="accr">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail; Doté de compétences variées dans le domaine du Développement, du Graphisme & du Numérique, je souhaite mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.
+		</div>
+		<div class="text card" id="moda">
+			<i>Contrat d’apprentissage - Rythme : 3 semaines en entreprise / 1 semaine en école</i><br>
+			<b>Formation éligible à l’Aide Exceptionnelle de 6000€</b>
 		</div>
 		<div class="card" id="info">
 			<div class="title">
-				<span class="transparent">Timothe Rifflet</span>
-				<span class="regular">Timothe Rifflet</span>
-				<span class="shadow">Timothe Rifflet</span>
+				<span class="transparent">Informations Personnelles</span>
+				<span class="regular">Informations Personnelles</span>
+				<span class="shadow">Informations Personnelles</span>
 			</div>
-			<span class="adress text">Chauny - 02300
-				</span>
+			<span class="text">25 ans - 1999-08-28</span>
 			<span class="adress text">rifflettim@gmail.com<br>
-			07 84 94 34 68
-			</span>
+			+33 (0)7 84 94 34 68</span>
+			<span class="text">Chauny - 02300</span>
+			<span class="text">Mobilité : Transports en commun</span>
+		</div>
+		<div class="card" id="add">
+			<div class="title">
+				<span class="transparent">Contact d'Ecole</span>
+				<span class="regular">Contact d'Ecole</span>
+				<span class="shadow">Contact d'Ecole</span>
+			</div>
+			<span class="text">Lucas d’Urso</span>
+			<span class="text"> +33 (0)6 19 60 00 52</span>
+			<span class="text">lucas.durso@3wa.fr</span>
 		</div>
 		<div id="competences">
 			<div class="card title-card" onclick="toggleDivs(this)">
@@ -43,7 +63,7 @@
 				</div>
 				<i class="fa-solid fa-caret-down"></i>
 			</div>
-			<div class="card hidden">
+			<div class="card comp hidden">
 				<div class="title">
 					<span class="transparent">Savoir-Faire</span>
 					<span class="regular">Savoir-Faire</span>
@@ -57,7 +77,7 @@
 				<br>
 				- Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques</div>
 			</div>
-			<div class="card hidden">
+			<div class="card comp hidden">
 				<div class="title">
 					<span class="transparent">Savoir-Etre :</span>
 					<span class="regular">Savoir-Etre :</span>
@@ -82,7 +102,7 @@
 				<br>
 				- S'adapter aux changements</div>
 			</div>
-			<div class="card hidden">
+			<div class="card comp hidden">
 				<div class="title">
 					<span class="transparent">Logiciels et Langages Maitrises</span>
 					<span class="regular">Logiciels et Langages Maitrises</span>
@@ -100,7 +120,7 @@
 				<br>
 				- Plateformes de développement collaboratif (git) </div>
 			</div>
-			<div class="card hidden">
+			<div class="card comp hidden">
 				<div class="title">
 					<span class="transparent">Langues :</span>
 					<span class="regular">Langues :</span>
@@ -122,13 +142,24 @@
 			</div>
 			<span class="card flipcard hidden">
 				<div class="title">
+					<span class="flip-before transparent">Formation Full Stack Developer</span>
+					<span class="flip-before regular">Formation Full Stack Developer</span>
+					<span class="flip-before shadow">Formation Full Stack Developer</span>
+				</div>
+				<span class="text flip-before">3W Academy</span>
+				<span class="text flip-before">Paris - (Téléprésentiel)</span>
+				<span class="text flip-after">Spécialisation React ou Angular et Symfony ou Node JS
+					<div class="smalltext">Début Mars 2025</div></span>
+			</span>
+			<span class="card flipcard hidden">
+				<div class="title">
 					<span class="flip-before transparent">S'engager vers l'emploi</span>
 					<span class="flip-before regular">S'engager vers l'emploi</span>
 					<span class="flip-before shadow">S'engager vers l'emploi</span>
 				</div>
 				<span class="text flip-before">AIDEQ - Chauny (02)</span>
 				<span class="text flip-after"> Certification CléA
-					<div class="smalltext">Depuis Novembre 2021</div></span>
+					<div class="smalltext">Depuis Novembre 2024</div></span>
 			</span>
 			<span class="card flipcard hidden">
 				<div class="title">
@@ -185,9 +216,9 @@
 			</span>
 			<span class="card flipcard blue hidden">
 				<div class="title">
-					<span class="flip-before transparent">Agent d'accueil</span>
-					<span class="flip-before regular">Agent d'accueil</span>
-					<span class="flip-before shadow">Agent d'accueil</span>
+					<span class="flip-before transparent">Agent d'accueil (Parc National)</span>
+					<span class="flip-before regular">Agent d'accueil (Parc National)</span>
+					<span class="flip-before shadow">Agent d'accueil (Parc National)</span>
 				</div>
 				<span class="text flip-before">Port-Cros - 83</span>
 				<span class="text flip-after">Parc National
@@ -205,12 +236,11 @@
 			</div>
 			<span class="card flipcard small hidden">
 				<div class="title">
-					<span class="flip-before transparent">Litterature</span>
-					<span class="flip-before regular">Litterature</span>
-					<span class="flip-before shadow">Litterature</span>
+					<span class="flip-before transparent">Litterature SF / Fantasy</span>
+					<span class="flip-before regular">Litterature SF / Fantasy</span>
+					<span class="flip-before shadow">Litterature SF / Fantasy</span>
 				</div>
-				<span class="text flip-after">Science-Fiction / Fantasy
-					<div class="smalltext">Bordage, Herbert, Wul, Damasio</div></span>
+				<span class="text flip-after"><div class="smalltext">Bordage, Herbert, Wul, Damasio</div></span>
 			</span>
 			<span class="card flipcard small hidden">
 				<div class="title">
@@ -219,7 +249,7 @@
 					<span class="flip-before shadow">Jeux de role papier</span>
 				</div>
 				<span class="text flip-after">Pathfinder, D&D
-					<div class="smalltext">Expérience de maître de jeu & worldbuilding</div></span>
+					<div class="smalltext">Expérience de GM & worldbuilding</div></span>
 			</span>
 			<span class="card flipcard small hidden"><a href="https://nomad.phaenyxx.com" class="text">
 				<div class="title">
