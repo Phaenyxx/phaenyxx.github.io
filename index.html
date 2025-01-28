@@ -267,16 +267,16 @@
 			const parent = Element.parentElement;
 			const children = parent.childNodes;
 
-			let delay = 0; // Initial delay (in milliseconds)
+			let delay = 0;
 			Element.classList.toggle('active');
 			console.log(children);
 			for (let child of children) {
 				if (child !== Element) {
-					if (child.nodeType === 1) { // Ensure it's an element node
+					if (child.nodeType === 1) {
 						setTimeout(function() {
-						child.classList.toggle('hidden'); // Toggle the 'hidden' class after the delay
+						child.classList.toggle('hidden');
 						}, delay);
-						delay += 50; // Increase the delay for the next element (300ms interval)
+						delay += 0;
 					}
 				}
 			}
