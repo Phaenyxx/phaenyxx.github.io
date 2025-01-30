@@ -199,10 +199,6 @@ a:focus{
 	background-color: var(--nomad-red);
 }
 
-#competences .title-card.active {
-	margin-bottom: 3px;
-}
-
 .title-card:hover {
 	box-shadow:  -2px -2px 0px var(--nomad-beige), 3px 3px 0px var(--nomad-black)
 }
