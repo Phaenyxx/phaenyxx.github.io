@@ -41,8 +41,10 @@ body {
 	grid-area: pict;
 	height: 140px;
 }
-#pic img {
+#pict img {
 	object-fit: contain;
+	/*-webkit-filter: drop-shadow(3px 3px 0px var(--nomad-black));
+	filter: drop-shadow(3px 3px 0px var(--nomad-black));*/
 }
 
 #pdf {
