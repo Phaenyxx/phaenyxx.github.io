@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="./css/cv.css">
+	<script src="https://kit.fontawesome.com/743217d315.js" crossorigin="anonymous"></script>
+	<title>CV Timothé Rifflet</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<div id="content">
+		<div id="pict">
+			<img src="assets/pic-alt2.png" width="140px" height="140px"></a>
+		</div>
+		<div class="title" id="name">
+			<span class="transparent">Rifflet Timothe</span>
+			<span class="regular">Rifflet Timothe</span>
+			<span class="shadow">Rifflet Timothe</span>
+		</div>
+		<div class="title" id="jobs">
+			<span class="transparent">Developpeur Full Stack en alternance</span>
+			<span class="regular">Developpeur Full Stack  en alternance</span>
+			<span class="shadow">Developpeur Full Stack  en alternance</span>
+			<span class="inside">Developpeur Full Stack  en alternance</span>
+		</div>
+		<div class="card" id="pdf">
+			<a href="cv/cv.pdf" class="text">PDF</a>
+			<a href="cv/cv_bw.pdf" class="text">N&B</a>
+		</div>
+		<div class="text card" id="accr">Dynamique et passionné, je suis fier de ma capacité d'apprentissage et de mon sens du détail; Doté de compétences variées dans le domaine du Développement, du Graphisme & du Numérique, je souhaite mettre à profit ma persévérance et mon enthousiasme dans la réalisation de vos projets.
+		</div>
+		<div class="text card" id="moda">
+			<i>Contrat d'apprentissage - Rythme : 3 semaines en entreprise / 1 semaine en école</i><br>
+			<b>Formation éligible à l'Aide Exceptionnelle de 5000€</b>
+		</div>
+		<div class="card" id="info">
+			<div class="title">
+				<span class="transparent">Informations Personnelles</span>
+				<span class="regular">Informations Personnelles</span>
+				<span class="shadow">Informations Personnelles</span>
+			</div>
+			<span class="text">25 ans - 1999-08-28</span>
+			<span class="adress text">rifflettim@gmail.com<br>
+			+33 (0)7 84 94 34 68</span>
+			<span class="text">Chauny - 02300</span>
+			<span class="text">Mobilité : Transports en commun</span>
+		</div>
+		<div class="card" id="add">
+			<div class="title">
+				<span class="transparent">Contact d Ecole</span>
+				<span class="regular">Contact d Ecole</span>
+				<span class="shadow">Contact d Ecole</span>
+			</div>
+			<span class="text">Jérémy Rocamora</span>
+			<span class="text"> +33 (0)6 80 01 40 29</span>
+			<span class="text">j.rocamora@3wacademy.fr</span>
+		</div>
+		<div id="competences">
+			<div class="card title-card" onclick="toggleDivs(this)">
+				<div class="title">
+					<span class="transparent">Competences</span>
+					<span class="regular">Competences</span>
+					<span class="shadow">Competences</span>
+				</div>
+				<i class="fa-solid fa-caret-down"></i>
+			</div>
+			<div class="card comp hidden">
+				<div class="title">
+					<span class="transparent">Savoir-Faire</span>
+					<span class="regular">Savoir-Faire</span>
+					<span class="shadow">Savoir-Faire</span>
+				</div>
+				<div class="text smalltext">- Développer un logiciel, un système d'informations, une application
+				<br>
+				- Conception de sites web
+				<br>
+				- Développer une application en lien avec une base de données
+				<br>
+				- Réaliser des éléments graphiques de composition à l'aide d'outils graphiques informatiques</div>
+			</div>
+			<div class="card comp hidden">
+				<div class="title">
+					<span class="transparent">Savoir-Etre :</span>
+					<span class="regular">Savoir-Etre :</span>
+					<span class="shadow">Savoir-Etre :</span>
+				</div>            
+				<div class="text smalltext">
+				- Faire preuve d'autonomie
+				<br>
+				- Faire preuve de créativité, d'inventivité
+				<br>
+				- Faire preuve de curiosité
+				<br>
+				- Faire preuve de persévérance
+				<br>
+				- Faire preuve de réactivité
+				<br>
+				- Faire preuve de rigueur et de précision
+				<br>
+				- Gérer son stress
+				<br>
+				- Organiser son travail selon les priorités et les objectifs
+				<br>
+				- S'adapter aux changements</div>
+			</div>
+			<div class="card comp hidden">
+				<div class="title">
+					<span class="transparent">Logiciels et Langages Maitrises</span>
+					<span class="regular">Logiciels et Langages Maitrises</span>
+					<span class="shadow">Logiciels et Langages Maitrises</span>
+				</div> 
+				<div class="text smalltext">- Photoshop & Illustrator
+				<br>
+				- HTML & CSS
+				<br>
+				- C/C++
+				<br>
+				- PHP
+				<br>
+				- SQL
+				<br>
+				- Plateformes de développement collaboratif (git) </div>
+			</div>
+			<div class="card comp hidden">
+				<div class="title">
+					<span class="transparent">Langues :</span>
+					<span class="regular">Langues :</span>
+					<span class="shadow">Langues :</span>
+				</div> 
+				<div class="text smalltext">- Anglais niveau courant
+				<br>
+				- Espagnol niveau intermédiaire</div>
+			</div>
+		</div>
+		<div id="formation">
+			<div class="card title-card" onclick="toggleDivs(this)">
+				<div class="title">
+					<span class="transparent">Formations <i class="fa-solid fa-cube ocean"></i> & Experiences <i class="fa-solid fa-cube blue"></i></span> 
+					<span class="regular">Formations <i class="fa-solid fa-cube ocean"></i> & Experiences <i class="fa-solid fa-cube blue"></i></span> 
+					<span class="shadow">Formations <i class="fa-solid fa-cube ocean"></i> & Experiences <i class="fa-solid fa-cube blue"></i></span>
+				</div>
+				<i class="fa-solid fa-caret-down"></i>
+			</div>
+			<span class="card flipcard hidden">
+				<div class="title">
+					<span class="flip-before transparent">Formation Full Stack Developer</span>
+					<span class="flip-before regular">Formation Full Stack Developer</span>
+					<span class="flip-before shadow">Formation Full Stack Developer</span>
+				</div>
+				<span class="text flip-before">3W Academy</span>
+				<span class="text flip-before">Paris - (Téléprésentiel)</span>
+				<span class="text flip-after">Spécialisation React ou Angular et Symfony ou Node JS
+					<div class="smalltext">Début Mars 2025</div></span>
+			</span>
+			<span class="card flipcard hidden">
+				<div class="title">
+					<span class="flip-before transparent">S'engager vers l'emploi</span>
+					<span class="flip-before regular">S'engager vers l'emploi</span>
+					<span class="flip-before shadow">S'engager vers l'emploi</span>
+				</div>
+				<span class="text flip-before">AIDEQ - Chauny (02)</span>
+				<span class="text flip-after"> Certification CléA
+					<div class="smalltext">Depuis Novembre 2024</div></span>
+			</span>
+			<span class="card flipcard hidden">
+				<div class="title">
+					<span class="flip-before transparent">Concepteur Designer UI UX</span>
+					<span class="flip-before regular">Concepteur Designer UI UX</span>
+					<span class="flip-before shadow">Concepteur Designer UI UX</span>
+				</div>
+				<span class="text flip-before">ID Formation - Saint-Quentin (02)</span>
+				<span class="text flip-after">Titre professionel - Bac +4
+					<div class="smalltext">Décembre 2021 à Avril 2022</div></span>
+			</span>
+			<span class="card flipcard hidden">
+					<div class="title">
+						<span class="flip-before transparent">Formation Premier Secours</span>
+						<span class="flip-before regular">Formation Premier Secours</span>
+						<span class="flip-before shadow">Formation Premier Secours</span>
+					</div>
+					<span class="text flip-before">PSC1</span>
+					<span class="text flip-after">Croix Rouge - Chauny (02)
+						<div class="smalltext">Décembre 2021</div></span>
+			</span>
+			<span class="card flipcard hidden">
+				<div class="title">
+					<span class="flip-before transparent">Concepteur Developpeur en Informatique</span>
+					<span class="flip-before regular">Concepteur Developpeur en Informatique</span>
+					<span class="flip-before shadow"> Concepteur Developpeur en Informatique</span>
+				</div>
+				<span class="text flip-before">Ecole 42 - Lyon (69)</span>
+				<span class="text flip-after">Niveau
+					2ème année - Bac +3
+					<div class="smalltext">Octobre 2019 à Août 2021</div></span>
+			</span>
+			<span class="card flipcard blue hidden">
+				<div class="title">
+					<span class="flip-before transparent">Agent de transit Fret</span>
+					<span class="flip-before regular">Agent de transit Fret</span>
+					<span class="flip-before shadow">Agent de transit Fret</span>
+				</div>
+			<span class="text flip-before">Giens - 83</span>
+			<span class="text flip-after">TLV-TVM
+				<div class="smalltext">Avril À Juin 2019<br>Réception marchandise et courrier, embarquement des marchandises.</div></span>
+				<span class="text flip-after">
+				</span>
+			</span>
+			<span class="card flipcard hidden">
+				<div class="title">
+					<span class="flip-before transparent">Expert en ingenierie logicielle</span>
+					<span class="flip-before regular">Expert en ingenierie logicielle</span>
+					<span class="flip-before shadow">Expert en ingenierie logicielle</span>
+				</div>
+				<span class="text flip-before">Epitech - Lyon (69)</span>
+				<span class="text flip-after">Niv. 1ère Année
+					<div class="smalltext">Octobre 2017 à Avril 2019</div></span>
+			</span>
+			<span class="card flipcard blue hidden">
+				<div class="title">
+					<span class="flip-before transparent">Agent d'accueil (Parc National)</span>
+					<span class="flip-before regular">Agent d'accueil (Parc National)</span>
+					<span class="flip-before shadow">Agent d'accueil (Parc National)</span>
+				</div>
+				<span class="text flip-before">Port-Cros - 83</span>
+				<span class="text flip-after">Parc National
+					<div class="smalltext">Septembre & Octobre 2017<br>Accueil des touristes, ventes de souvenirs, entretien des espaces publics, missions de surveillance du parc</div></span>
+			</span>
+		</div>
+		<div id="experiences">
+					<div class="card title-card" onclick="toggleDivs(this)">
+						<div class="title">
+					<span class="transparent">Loisirs et Realisations</span>
+					<span class="regular">Loisirs et Realisations</span>
+					<span class="shadow">Loisirs et Realisations</span>
+				</div>
+				<i class="fa-solid fa-caret-down"></i>
+			</div>
+			<span class="card flipcard small hidden">
+				<div class="title">
+					<span class="flip-before transparent">Litterature SF / Fantasy</span>
+					<span class="flip-before regular">Litterature SF / Fantasy</span>
+					<span class="flip-before shadow">Litterature SF / Fantasy</span>
+				</div>
+				<span class="text flip-after"><div class="smalltext">Bordage, Herbert, Wul, Damasio</div></span>
+			</span>
+			<span class="card flipcard small hidden">
+				<div class="title">
+					<span class="flip-before transparent">Jeux de role papier</span>
+					<span class="flip-before regular">Jeux de role papier</span>
+					<span class="flip-before shadow">Jeux de role papier</span>
+				</div>
+				<span class="text flip-after">Pathfinder, D&D
+					<div class="smalltext">Expérience de GM & worldbuilding</div></span>
+			</span>
+			<span class="card flipcard small hidden"><a href="https://nomad.phaenyxx.com" class="text">
+				<div class="title">
+					<span class="flip-before transparent">Prototype de jeu Web</span>
+					<span class="flip-before regular">Prototype de jeu Web</span>
+					<span class="flip-before shadow">Prototype de jeu Web</span>
+				</div>
+				<span class="text flip-after">RPG sur navigateur en PHP/SQL
+					<div class="smalltext"></div></span>
+			</a></span>
+		</div> 
+	</div>
+	<script>
+		function toggleDivs(Element) {
+			const parent = Element.parentElement;
+			const children = parent.childNodes;
+
+			let delay = 0;
+			Element.classList.toggle('active');
+			console.log(children);
+			for (let child of children) {
+				if (child !== Element) {
+					if (child.nodeType === 1) {
+						setTimeout(function() {
+						child.classList.toggle('hidden');
+						}, delay);
+						delay += 0;
+					}
+				}
+			}
+		}
+	</script>	  
+</body>
+</html>
+
+
