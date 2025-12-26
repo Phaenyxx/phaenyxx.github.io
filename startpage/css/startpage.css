@@ -1,63 +1,30 @@
-@import url("blocks.css");
 
 :root {
-	--light: #EEF0E1;
-	--base: #D4D0B2;
-	--alternate: #8F786A;
-	--shade: #645152;
-	--accent: #A08761;
-	--dark: #0D0221;
-	--green: #6F9075;
-	--purple: #745A8C;
-	--blue: #3D5C87;
-	--light-blue: #78A8BA;
-	--red: #8E3B46;
-	--pink: #BF9294;
-	--yellow: #DBBD70;
+	--light: #dfe1e8;
+	--dark: #07090f;
+	--yellow: #a37c40;
+	--red: #f44174;
 }
 
-@font-face {
-	font-family: 'Pokemon';
-	src: url("pokemon.ttf");
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
 
 *{
 	box-sizing: border-box; 
 }
 
 body {
-	font-family: 'Pokemon';
-	font-size: 8px;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 12px;
+	background-color: var(--dark);
 	color: var(--light);
-	text-shadow: 2px 1px var(--dark);
-	text-align: center;
+	
 	height: 100vh;
 	overflow: hidden;
 	margin: 0;
 	padding: 0;
 	width: 10;
 	display: flex;
-}
-
-span {
-	display: inline-flex;
-	align-items: center;
-	line-height: normal;
-}
-
-span img{
-	margin: 5px 0 0;
-}
-
-input, form {
-	font-family: 'Pokemon';
-	font-size: 8px;
-	color: var(--light);
-	text-shadow: 2px 1px var(--dark);
-	text-align: center;
-	background-color: inherit;
-	border: none;
-	outline: none;
 }
 
 a:link {
@@ -72,47 +39,39 @@ a:visited {
     cursor: auto;
 }
 
-.background{
-	position: absolute;
-	z-index: 1;
-	top: 0;
-	left: 0;
-	z-index: -100;
-	width: 100vw;
-	height: 100vh;
-}
-
-.background>img {
-	min-width: 100%;
-	min-height: 100%;
+.content{
+	z-index: 100;
+	padding: 16px;
+	display: flex;
+	gap: 16px;
 }
 
 .main{
 	width: min-content;
 	margin: 16px 0 ;
 	width: 100%;
-	display: grid;
-	grid-template-areas:
-	"reddit mailpro maro roll20 lichess"
-	"youtube mailperso scryfall nethys myhordes"
-	"imgur sheets mkm . ."
-	"tumblr . moxfield . ."
-	"twitter . . . .";
-	grid-gap: 16px;
-	grid-template-columns: 0.4fr  1fr 0.7fr 0.7fr 0.7fr;
-	grid-template-rows: max-content max-content max-content max-content max-content;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: left;
+	gap: 8px;
 }
 
-@media screen and (max-width: 900px) {
-	.main {
-	grid-template-areas:
-	"reddit mailpro scryfall"
-	"youtube mailperso moxfield"
-	"imgur sheets mkm"
-	"tumblr roll20 maro"
-	"twitter nethys lichess"
-	"myhordes . .";
-	grid-template-columns: 0.4fr  1fr 0.7fr;
-	grid-template-rows: max-content max-content max-content max-content max-content max-content;
-	}
+.link {
+	min-height: 30px;
+	width: min-content;
+	min-width: 150px;
+	justify-content: center;
+
+	border: 2px dashed var(--yellow);
+	height: min-content;
+	padding: 8px;
+	padding-left: 16px;
+	transition: border 0.4s ease-in-out;
+}
+
+.link:hover {
+	border: 2px dashed var(--red);
+	cursor:pointer;
+	
 }

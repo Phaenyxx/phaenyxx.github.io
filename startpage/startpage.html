@@ -3,86 +3,45 @@
 <head>
     <title>New Page</title>
     <link rel="stylesheet" href="css/startpage.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
-    </style> 
 </head>
 <body>
     <div class="content">
-        <div class="flip-box">
-            <div class="flip-box-inner">
-              <div class="header"id="Front">
-                <span>Startpage</span>
-              </div>
-              <div class="header" id="Back">
-                <span> <form method="get" action="https://www.google.com/search">
-                    <input type="text" name="q" size="31" value="" placeholder="Search..." oninput="showElem()" autofocus>
-                </form></span>
-              </div>
-            </div>
-          </div> 
         <div class="main">
                 <a href="https://www.reddit.com/" id="reddit"><div class="link">
-					<span>Reddit</span>
+				<i class="fa-brands fa-reddit"></i>	Reddit
 				</div></a>
                 <a href="https://www.youtube.com/" id="youtube"><div class="link">
-					<span>Youtube</span>
-				</div></a>
-                <a href="https://imgur.com" id="imgur"><div class="link">
-					<span>Imgur</span>
-				</div></a>
-                <a href="https://www.tumblr.com/dashboard" id="tumblr"><div class="link">
-					<span>Tumblr</span>
+				<i class="fa-brands fa-youtube"></i> Youtube
 				</div></a>
                 <a href="https://twitter.com/home" id="twitter"><div class="link">
-					<span>Twitter</span>
+				<i class="fa-brands fa-twitter"></i> Twitter
 				</div></a>
-
                 <a href="https://mail.google.com/mail/u/1/" id="mailpro"><div class="link">
-					<span>Mail Pro</span>
+				<i class="fa-solid fa-inbox"></i> Mail Pro
 				</div></a>
                 <a href="https://mail.google.com/mail/u/0/" id="mailperso"><div class="link">
-					<span>Mail Perso</span>
+				<i class="fa-solid fa-inbox"></i> Mail Perso
 				</div></a>
                 <a href="https://docs.google.com/spreadsheets/u/0/" id="sheets"><div class="link">
-					<span>Google Sheets</span>
+				<i class="fa-brands fa-google-drive"></i> Google Sheets
 				</div></a>
-
                 <a href="https://scryfall.com/" id="scryfall"><div class="link">
-					<span>Scryfall</span>
-				</div></a>
-                <a href="https://www.cardmarket.com/fr/Magic" id="mkm"><div class="link">
-					<span>Cardmarket</span>
+					Scryfall
 				</div></a>
                 <a href="https://www.moxfield.com/" id="moxfield"><div class="link">
-					<span>Moxfield</span>
-				</div></a>
-                <a href="https://www.tumblr.com/blog/view/markrosewater" id="maro"><div class="link">
-					<span>MaRo blog</span>
-				</div></a>
-                <a href="https://roll20.net/welcome" id="roll20"><div class="link">
-					<span>Roll20</span>
+					Moxfield
 				</div></a>
                 <a href="https://2e.aonprd.com/" id="nethys"><div class="link">
-					<span>Nethys Archives</span>
+				<i class="fa-solid fa-book"></i> Nethys Archives
 				</div></a>
                 <a href="https://lichess.org/" id="lichess"><div class="link">
-					<span>Lichess</span>
+				<i class="fa-solid fa-chess"></i> Lichess
 				</div></a>
                 <a href="https://myhordes.fr" id="myhordes"><div class="link">
-					<span>MyHordes</span>
+				<i class="fa-solid fa-skull"></i> MyHordes
 				</div></a>
 			</div>
 		</div>
-    <div class="background">
-        <img src="img/bg/ruins.jpg">
-    </div>
 </body>
-<script type="text/javascript">
-    document.addEventListener("keypress", showElem);
-    function showElem() { 
-        document.querySelector('.flip-box-inner').style.transform = "RotateX(180deg)";
-        document.querySelector('input').focus();
-    }
-</script> 
+<script src="https://kit.fontawesome.com/743217d315.js" crossorigin="anonymous"></script>
 </html>
